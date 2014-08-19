@@ -24,12 +24,13 @@ Students will show progress toward reaching the objective based on their perform
 ### Vocabulary
 
 * Library
-* 
+* Twitter bootstrap
 
 ### References
 
-* http://www.w3schools.com/js/js_strings.asp
-* http://www.w3schools.com/js/js_string_methods.asp
+* http://getbootstrap.com/css/
+* http://www.bootply.com/new#
+* http://www.sitepoint.com/understanding-twitter-bootstrap-3/
 
 ## During class
 
@@ -41,224 +42,21 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about strings. This is important because strings store what we humans use everyday to communicate with each other: words and sentences. It connects to what we've previously learned because we will be able to create variables to store strings. Additionally, we will get to call pre-built functions to manipulate strings.
+Today we will learn about Twitter bootstrap. This is important because bootstrap lets us create simple and clean looking web pages without spending a lot of time. It connects to what we've previously learned because we will able to use CSS classes written by others to style our pages.
 
-Someone give me an example of a word. Any word. What is a word made up of? How can I change this word? How can I add more to the word?
+What's CSS? How is it different than HTML? What's a CSS class? How about ID? When do we use one versus the other?
 
 ### Introduction of new material ("I do")
 
-####Create, initialize, and access a string
+####Twitter bootstrap
 
-```
-var buzz = "To infinity, and beyond!";
-```
+**Twitter bootstrap** is a CSS and JavaScript library written by former Twitter employees. A **library** is a body of code that others have written to make our lives easier. Rather than writing our own CSS which takes time, we can use Bootstrap's CSS classes in our HTML pages. 
 
-Let's break this down right to left. Notice the **double quotes** (`"`). All strings start and end with them. Inside the double quotes we find the actual contents of the string which is a sentence in this case. Your text editor will change the color of the contents of your string. It does this because it wants to visually assist you when you are reading your code.
+For this unit, we will only look at the CSS aspects of Bootstrap.
 
-This string is then stored in a variable called `buzz`. Now let's print it:
+#####Getting started
 
-```
-console.log(buzz);
-```
 
-This prints out `To infinity, and beyond!` to the console.
-
-####String manipulation
-
-#####String length
-
-Suppose we want to find the length of our string. We can:
-
-```
-var blueFish = "Dory";
-console.log(blueFish.length);
-```
-
-All strings have a length attribute. The above will print `4` to the console.
-
-#####Access character
-
-Suppose we want to find the first character of a string. We can:
-
-```
-var blueFish = "Dory";
-console.log(blueFish.charAt(0));
-```
-
-`charAt` is a function that takes in one parameter. This parameter is the **index** or position of the character inside the string. Notice how the first character of a string is always at the 0 index. (This has to do with computers starting count at 0 instead of 1. We'll learn more about this in the arrays section.) The function returns the character at the position of the index. The above prints `D` out to the console.
-
-What if we want to print the last character? We can:
-
-```
-var blueFish = "Dory";
-console.log(blueFish.charAt(blueFish.length-1));
-```
-
-Let's first think about what `blueFish.length-1` means. We know the length is 4 from above. 4-1 results in 3. So we are asking for the character at the 3rd index in our string. Note that the last character in a string will always be one less than its length.
-
-#####Index of a character
-
-Suppose we want to find the index of the letter 'r' in our string. We can:
-
-```
-var blueFish = "Dory";
-console.log(blueFish.indexOf("r"));
-```
-
-`indexOf` is a function that takes in one parameter. This parameter is the character that you wish to the find the index of. The function finds the first occurrence of the character and returns the index of it. The above prints `2` to the console. Why doesn't it print 3?
-
-#####Split a string
-
-Suppose we have a string that contains a sentence with two words. Suppose we want to split the sentence into two parts. We can:
-
-```
-var rex = "I roar!";
-console.log(rex.slice(0,1));
-console.log(rex.slice(2,6));
-```
-
-`slice` is a function that takes two parameters: a starting index and an ending index. The function then extracts the mini-string inside the original based on the two indices. This resulting string is called a **sub-string**.
-
-The above prints:
-
-```
-I
-roar
-```
-
-#####Upper case & lower case
-
-Suppose we have a string and want to make it all upper case. We can:
-
-```
-var potatoHead = "Hey, a laser! How come you don't have a laser, Woody?";
-var angryPotatoHead = potatoHead.toUpperCase();
-console.log(angryPotatoHead);
-```
-
-This prints `HEY, A LASER! HOW COME YOU DON'T HAVE A LASER, WOODY?`.
-
-Suppose we want to make our new string all lower case. We can:
-
-```
-var nicePotatoHead = angryPotatoHead.toLowerCase();
-console.log(nicePotatoHead);
-```
-
-This prints `hey, a laser! how come you don't have a laser, woody?`.
-
-#####Replace
-
-Suppose we want to replace a word in a string. We can:
-
-```
-var dory = "Hey, look! Sharks!";
-var otherDory = dory.replace("Sharks", "Turtles");
-console.log(otherDory);
-```
-
-The `replace()` function takes in two parameters: a string to replace and the string to replace with. It searches in the original string for the first parameter. It then replaces it with the second parameter. The above prints `Hey, look! Turtles!`.
-
-#####Concatenate
-
-Suppose you want to join two strings together. We can:
-
-```
-var marlinOne = "No, no more whale!";
-var marlinTwo = "You can't speak whale!";
-var marlinJoined = marlinOne.concat(marlinTwo);
-console.log(marlinJoined);
-```
-
-The `concat` function takes in one parameter: the string that is to be added to the end of the original string. It returns a joined or **concatenated** string. 
-
-The above prints `No, no more whale!You can't speak whale!`. Notice that there's no whitespace between the first `whale` and the exclamation mark.
-
-We can also use the ``+`` operator:
-
-```
-console.log("Maybe a different dialect." + " Mmmmoooooowaaaaah...");
-```
-
-This prints `Maybe a different dialect. Mmmmoooooowaaaaah...`.
-
-
-#####Trim
-
-The invisible character that gets created when you tap the space bar on your keyboard is called **whitespace**. Consider the following string:
-
-```
-var dory = "Your son Chico?";
-```
-
-This string has two white spaces in it. One at index 4 between `Your` and `son`. Another at index 8 between `son` and `Chico`. 
-
-Sometimes strings have unnecessary whitespaces at the end of them like so:
-
-```
-var marlin = "Nemo   ";
-```
-
-If we print the length of this string, we will get 7. Let's eliminate the whitespace at the end of the string:
-
-
-```
-var cleanMarlin = marlin.trim();
-console.log(cleanMarlin.length);
-```
-
-`trim()` is a function that removes whitespace both at the beginning and end of the string it is operating on. The above will print `4` to the console.
-
-####Cast
-
-Suppose the following:
-
-```
-var x = 42;
-```
-
-Suppose we want to concatenate a string to the end of that number. Based off what we've learned above, we can:
-
-```
-x.concat(" is the best number ever!");
-```
-
-If we try the above code, it will fail. JavaScript will give us an error message. This is because the variable `x` is a number. Numbers cannot be concatenated with. Only strings can. So we must convert or **cast** the variable to a string. We do this by:
-
-```
-var xString = parseInt(x);
-var newString = xString.concat(" is the best number ever!");
-console.log(newString);
-```
-
-`parseInt()` is a function that takes in one parameter: an integer. It returns the string form of the integer. 
-
-The above code prints `42 is the best number ever!`.
-
-####Comparison
-
-To compare two strings, we can use the `==` operator:
-
-```
-var w = "Hello";
-var x = "Hello";
-var y = "hello";
-var z = "hello  ";
-
-console.log(w==x);
-console.log(w==y);
-console.log(y==z);
-console.log(y==z.trim());
-```
-
-prints the following boolean values:
-
-```
-true
-false
-false
-true
-```
 
 ### Guided practice ("We do")
 
