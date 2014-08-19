@@ -48,15 +48,30 @@ What's CSS? How is it different than HTML? What's a CSS class? How about ID? Whe
 
 ### Introduction of new material ("I do")
 
-####Twitter bootstrap
+####Getting started
 
 **Twitter bootstrap** is a CSS and JavaScript library written by former Twitter employees. A **library** is a body of code that others have written to make our lives easier. Rather than writing our own CSS which takes time, we can use Bootstrap's CSS classes in our HTML pages. 
 
 For this unit, we will only look at the CSS aspects of Bootstrap.
 
-#####Getting started
+#####Installation
 
+We first need to bring Bootstrap into our project. We do this by using the ``<link>`` tag in the ``<head>...</head>`` section of our page. Starting from scratch, our HTML code should look something like this:
 
+```
+<html>
+  <head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <title>My first bootstrap page!</title>
+  </head>
+  <body>
+    Hello world!
+  </body>
+</html>
+```
+Note the link where the Bootstrap CSS file is located. Another website is hosting this file for us. This is convenient because we don't have to download the file and store it in our own project.
+
+####Getting started
 
 ### Guided practice ("We do")
 
