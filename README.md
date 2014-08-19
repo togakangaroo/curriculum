@@ -1,6 +1,6 @@
-ScriptEd Curriculum Year 1
+ScriptEd Curriculum Part 1
 ===================
-####Semester I
+####Part I
  During unit 2 students will set up an account with GitHub and Cloud9 account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
 
 | Unit  | Lessons | Topics | Project |
@@ -19,9 +19,9 @@ ScriptEd Curriculum Year 1
  
 ---
 
-ScriptEd Curriculum Year 2
+ScriptEd Curriculum Part 2
 =========================
-####Semester I
+####Part 2
  Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account for students who need to do so. 
 
 | Unit  | Date(s) of Lesson | Skills | Project | 
