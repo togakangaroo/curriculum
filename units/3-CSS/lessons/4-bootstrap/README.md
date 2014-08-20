@@ -217,9 +217,7 @@ Repeat the exercise above with the following changes:
 
 #### Homework
 
-[Link to homework](homework/)
-
-Remind students when homework is due and how it will be collected.
+There is no homework for this lesson. Point students to the project instead.
 
 ## After class
 
