@@ -86,11 +86,32 @@ Let's take a look at a single element before the inclusion of Bootstrap and afte
 </html>
 ```
 
-Click [here](http://jsbin.com/tuqarosujofu/1/) to see what this code looks like. Using the chrome browser, right click on the button and click on "Inspect element". Look at the right side of the new screen. It should look something like:
+Click [here](http://jsbin.com/tuqarosujofu/1/) to see what this code looks like. Using the Chrome browser, right click on the button and click on "Inspect element". Look at the right side of the new screen. It should look something like:
 
 ![image](http://i.imgur.com/Aq8CQOp.jpg)
 
+These are all the styles being applied to that button. But wait. We don't have a CSS file in our project. We haven't written any styles for our button so where are these styles coming from? These styles are coming from the browser. Every browser has its default styles. 
 
+Let's now insert bootstrap into our code above. Consider the following code:
+
+```
+<html>
+  <head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <title>Hello world!</title>
+  </head>
+  <body>
+    <button type="button" class="btn btn-default">Click me</button>
+  </body>
+</html>
+```
+Click [here](http://jsbin.com/judipedoqiqa/1/) to see what this code looks like. Notice that the button looks different. Again, right click on the button and click on "Inspect element." It should look something like:
+
+![image](http://i.imgur.com/72KRqeD.jpg)
+
+Notice the new styles being applied to the button. Also note that they are all coming from bootstrap.min.css which is the file we're bringing in using the ``<link>`` tag.
+
+This is the power of Boostrap. By just including one file into our HTML file, we get hundreds of styles for free. Our button now looks better than the default version and we didn't even have to write any CSS to accomplish that.
 
 ### Guided practice ("We do")
 
