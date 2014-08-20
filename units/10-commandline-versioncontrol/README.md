@@ -1,7 +1,7 @@
 #Unit 10 - Version control
 
 ##Synopsis
-This unit touches upon the basic CRUD (create, read, update, delete) commands in a terminal. It also introduces version control. Students will learn how to `clone`, `push`, and `pull` using Git. There is no project for this unit.
+This unit touches upon the basic CRUD (create, read, update, delete) commands in the terminal. It also introduces version control. Students will learn how to `clone`, `push`, and `pull` using Git. There is no project for this unit.
 
 ##Lessons
 
