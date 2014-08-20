@@ -11,7 +11,7 @@ Students will be able to use the basics of Twitter bootstrap's CSS offerings.
 ### Key points
 
 * Twitter bootstrap is a CSS and JavaScript library.
-* Twitter bootstrap contains a collection of CSS classes that we can apply to our own HTML elements.
+* Twitter bootstrap contains a collection of styles that we can apply to our own HTML elements.
 * Twitter bootstrap makes it easier to create a simple and clean looking page.
 
 ### Assessment
@@ -50,7 +50,7 @@ What's CSS? How is it different than HTML? What's a CSS class? How about ID? Whe
 
 ####Getting started
 
-**Twitter bootstrap** is a CSS and JavaScript library written by former Twitter employees. A **library** is a body of code that others have written to make our lives easier. Rather than writing our own CSS which takes time, we can use Bootstrap's CSS classes in our HTML pages. 
+**Twitter bootstrap** is a CSS and JavaScript library written by former Twitter employees. A **library** is a body of code that others have written to make our lives easier. Rather than writing our own CSS which takes time, we can use Bootstrap's styles in our HTML pages. 
 
 For this unit, we will only look at the CSS aspects of Bootstrap.
 
@@ -71,7 +71,26 @@ We first need to bring Bootstrap into our project. We do this by using the ``<li
 ```
 Note the link where the Bootstrap CSS file is located. Another website is hosting this file for us. This is convenient because we don't have to download the file and store it in our own project.
 
-####Getting started
+####Deep dive
+
+Let's take a look at a single element before the inclusion of Bootstrap and afterwards. Consider the following code:
+
+```
+<html>
+  <head>
+    <title>Hello world!</title>
+  </head>
+  <body>
+    <button type="button" class="btn btn-default">Click me</button>
+  </body>
+</html>
+```
+
+Click [here](http://jsbin.com/tuqarosujofu/1/) to see what this code looks like. Using the chrome browser, right click on the button and click on "Inspect element". Look at the right side of the new screen. It should look something like:
+
+![image](http://i.imgur.com/Aq8CQOp.jpg)
+
+
 
 ### Guided practice ("We do")
 
