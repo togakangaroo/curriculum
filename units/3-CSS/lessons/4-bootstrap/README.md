@@ -86,7 +86,7 @@ Let's take a look at a single element before the inclusion of Bootstrap and afte
 </html>
 ```
 
-Click [here](http://jsbin.com/tuqarosujofu/1/) to see what this code looks like. Using the Chrome browser, right click on the button and click on "Inspect element". Look at the right side of the new screen. It should look something like:
+Click [here](http://jsbin.com/quxeg/1/) to see what this code looks like. Using the Chrome browser, right click on the button and click on "Inspect element". Look at the right side of the new screen. It should look something like:
 
 ![image](http://i.imgur.com/Aq8CQOp.jpg)
 
@@ -105,7 +105,7 @@ Let's now insert bootstrap into our code above. Consider the following code:
   </body>
 </html>
 ```
-Click [here](http://jsbin.com/judipedoqiqa/1/) to see what this code looks like. Notice that the button looks different. Again, right click on the button and click on "Inspect element." It should look something like:
+Click [here](http://jsbin.com/vaguto/1/) to see what this code looks like. Notice that the button looks different. Again, right click on the button and click on "Inspect element." It should look something like:
 
 ![image](http://i.imgur.com/72KRqeD.jpg)
 
@@ -115,7 +115,7 @@ This is the power of Boostrap. By just including one file into our HTML file, we
 
 ####Text
 
-Bootstrap has many styles for controling the appearance of text. Go [here](http://getbootstrap.com/css/#type) for more details.
+Bootstrap has many styles for controlling the appearance of text. Go [here](http://getbootstrap.com/css/#type) for more details.
 
 ####Grid system
 
@@ -152,35 +152,37 @@ Consider the following code:
     <title>Hello world!</title>
   </head>
   <body>
-    <div class="row">
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-      <div class="col-md-1">.col-md-1</div>
-    </div>
-    <br/><br/>
-    <div class="row">
-      <div class="col-md-8">.col-md-8</div>
-      <div class="col-md-4">.col-md-4</div>
-    </div>
-    <br/><br/>
-    <div class="row">
-      <div class="col-md-4">.col-md-4</div>
-      <div class="col-md-4">.col-md-4</div>
-      <div class="col-md-4">.col-md-4</div>
-    </div>
-    <br/><br/>
-    <div class="row">
-      <div class="col-md-6">.col-md-6</div>
-      <div class="col-md-6">.col-md-6</div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+        <div class="col-md-1">.col-md-1</div>
+      </div>
+      <br/><br/>
+      <div class="row">
+        <div class="col-md-8">.col-md-8</div>
+        <div class="col-md-4">.col-md-4</div>
+      </div>
+      <br/><br/>
+      <div class="row">
+        <div class="col-md-4">.col-md-4</div>
+        <div class="col-md-4">.col-md-4</div>
+        <div class="col-md-4">.col-md-4</div>
+      </div>
+      <br/><br/>
+      <div class="row">
+        <div class="col-md-6">.col-md-6</div>
+        <div class="col-md-6">.col-md-6</div>
+      </div>
     </div>
   </body>
 </html>
@@ -193,9 +195,21 @@ These units specify the width of the column. Bootstrap allows for the total widt
 
 ### Guided practice ("We do")
 
+We're going to make a page about your school with Boostrap in it. Let's have the [reference](http://getbootstrap.com/css/) documentation open.
 
+1. Let's start from scratch and create an empty page. Let's get our `head` and `body` tags correct.
+2. Let's include Bootstrap into it.
+3. Let's use the `h1` tag at the very top to include the name of your school.
+4. Let's use the `h2` tag to write an "Address" heading. 
+5. Let's use the `address` tag that Bootstrap offers to write down the address of your school.
+6. Let's make another `h2` tag to write an "Alma mater" heading.
+7. Let's use the `blockquote` tag that Bootstrap offers us to write down your school's alma mater.
+8. Let's make another `h2` tag to write a "Roster" heading.
+9. Let's create a 3x3 grid using Bootstrap's grid system. Each cell of the grid should have the name of a student in our ScriptEd class.
 
 ### Independent practice ("You do")
+
+
 
 
 #### Homework
