@@ -113,44 +113,90 @@ Notice the new styles being applied to the button. Also note that they are all c
 
 This is the power of Boostrap. By just including one file into our HTML file, we get hundreds of styles for free. Our button now looks better than the default version and we didn't even have to write any CSS to accomplish that.
 
+####Text
+
+Bootstrap has many styles for controling the appearance of text. Go [here](http://getbootstrap.com/css/#type) for more details.
+
+####Grid system
+
+Bootstrap offers a grid system that lets you arrange you content in columns and rows. Using this structure will also make your webpage viewable in different sizes such as on a smartphone.
+
+Consider the following code:
+
+```
+<html>
+  <head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <style type="text/css">
+      .col-md-1
+      {
+        background-color: red;
+        border: 1px solid;
+      }
+      .col-md-4
+      {
+        background-color: lightblue;
+        border: 1px solid;
+      }
+      .col-md-6
+      {
+        background-color: lightgreen;
+        border: 1px solid;
+      }
+      .col-md-8
+      {
+        background-color: pink;
+        border: 1px solid;
+      }      
+    </style>
+    <title>Hello world!</title>
+  </head>
+  <body>
+    <div class="row">
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+      <div class="col-md-1">.col-md-1</div>
+    </div>
+    <br/><br/>
+    <div class="row">
+      <div class="col-md-8">.col-md-8</div>
+      <div class="col-md-4">.col-md-4</div>
+    </div>
+    <br/><br/>
+    <div class="row">
+      <div class="col-md-4">.col-md-4</div>
+      <div class="col-md-4">.col-md-4</div>
+      <div class="col-md-4">.col-md-4</div>
+    </div>
+    <br/><br/>
+    <div class="row">
+      <div class="col-md-6">.col-md-6</div>
+      <div class="col-md-6">.col-md-6</div>
+    </div>
+  </body>
+</html>
+```
+Click [here](http://jsbin.com/cureg/1/) to see the produced page. 
+
+Let's break this down. There are four rows total in this grid. In the first row, there are 12 columns each sized with 1 unit. In the second row, there are two columns sized 8 units and 4 units respectively. In the third row, there are three columns equally sized 4 units. Finally, in the last row, there are two columns each sized 8 units.
+
+These units specify the width of the column. Bootstrap allows for the total width of a row to add up to 12 units maxiumum. 
+
 ### Guided practice ("We do")
 
-Now we're going to work with strings together. 
-
-`var dory = "Hey, look, balloons. It is a party.";`
-
-1. How do I print out the length of the string?
-2. How do I print out the first and last character of the string?
-3. How do I print out the index of the letter "b"?
-4. How do I separate the first sentence from the second? I want each sentence in its own variable and then I want to print each of those two variables.
-5. How do I print the sentence in upper case form? In lower case?
-6. How do I replace the word "balloons" with the word "sprinkles" and print it?
-7. How do I add the sentence "Like it's 1999.    " to the end of the string and print it?
-8. How do I remove the white space at the end of the sentence and print it?
 
 
 ### Independent practice ("You do")
 
-Consider the following string:
-
-``var buzz = "This is an intergalactic emergency. I need to commandeer your vessel to Sector 12.";``
-
-1. Print out the length of the string.
-2. Print out the first and last character of the string.
-3. Print out the index of the letter "g".
-4. Separate the first sentence from the second. Put each sentence in its own variable and then print each of those two variables.
-5. Print the sentence in upper case form. Again in lower case.
-6. Replace the word "vessel" with the word "pixie" and print it.
-7. Add the sentence "Who's in charge here?    " to the end of the string and print it.
-8. Remove the white space at the end of the sentence and print it.
-
-#### Exit ticket
-
-Give exit-ticket quiz.
-
-### Closing
-
-Today you learned about strings. This is important because strings are used to store words and sentences that humans use to talk. Next, we will learn about conditionals.
 
 #### Homework
 
