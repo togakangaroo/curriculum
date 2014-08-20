@@ -205,12 +205,15 @@ We're going to make a page about your school with Boostrap in it. Let's have the
 6. Let's make another `h2` tag to write an "Alma mater" heading.
 7. Let's use the `blockquote` tag that Bootstrap offers us to write down your school's alma mater.
 8. Let's make another `h2` tag to write a "Roster" heading.
-9. Let's create a 3x3 grid using Bootstrap's grid system. Each cell of the grid should have the name of a student in our ScriptEd class.
+9. Let's create a grid with 3 equally sized columns using Bootstrap's grid system. Each cell of the grid should have the name of a student in our ScriptEd class.
 
 ### Independent practice ("You do")
 
+Repeat the exercise above with the following changes:
 
-
+1. Do it for the college you wish to attend in the future.
+2. For (9), make the grid have 4 equally sized columns. Fill it with the name of alumni; you can get names from the "Notable alumni" section of the college's Wikipedia entry.
+3. Add another sub-heading and call it "Campus". Include a picture of the campus shaped in a circle. Hint [here](http://getbootstrap.com/css/#images).
 
 #### Homework
 
