@@ -215,6 +215,14 @@ Repeat the exercise above with the following changes:
 2. For (9), make the grid have 4 equally sized columns. Fill it with the name of alumni; you can get names from the "Notable alumni" section of the college's Wikipedia entry.
 3. Add another sub-heading and call it "Campus". Include a picture of the campus shaped in a circle. Hint [here](http://getbootstrap.com/css/#images).
 
+#### Exit ticket
+
+Give exit-ticket quiz.
+
+### Closing
+
+Today you learned about Twitter bootstrap. This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS>
+
 #### Homework
 
 There is no homework for this lesson. Point students to the project instead.
@@ -223,3 +231,4 @@ There is no homework for this lesson. Point students to the project instead.
 
 * Grade do-now & exit-ticket. Record in class spreadsheet.
 * Prepare for next lesson / hand off to next volunteer in rotation.
+
