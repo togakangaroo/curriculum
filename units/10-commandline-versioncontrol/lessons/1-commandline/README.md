@@ -235,7 +235,7 @@ Today you learned about the command line. This is important because the command 
 
 #### Homework
 
-There is no homework for this lesson/.
+There is no homework for this lesson.
 
 ## After class
 
