@@ -59,7 +59,7 @@ The **terminal** is a place where we talk to a computer. In the terminal, we iss
 
 When I open Cloud9 and click on Window->New Terminal, I see something like:
 
-![image](http://i.imgur.com/cDz2k3f.jpg)
+![image](http://i.imgur.com/qDJZEpS.jpg)
 
 Let's ignore the part in green and focus on the blue. It says:
 
@@ -133,6 +133,77 @@ dopeboy@demo:/home/ubuntu/workspace $
 The `mkdir` command can take in one parameter: the name of the folder you wish to create.
 
 Notice that when we run the `ls` command, "pikachu" has a forward slash (/) at the end of it. This is the terminal's way of telling us that "pikachu" is a folder, not a file.
+
+#### Change directory (or folder)
+
+How do we change the directory we are in to a different one?
+
+```
+dopeboy@demo:/home/ubuntu/workspace $ ls
+README.md*  hello-world.html  hello.js  pikachu/
+dopeboy@demo:/home/ubuntu/workspace $ cd pikachu/
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ pwd
+/home/ubuntu/workspace/pikachu
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ 
+```
+The `cd` command takes in one parameter: the name of the directory you wish to go in. The `pwd` command checks that we did indeed change to another directory.
+
+#### Move a file
+
+How do we move a file from one directory to another?
+
+```
+dopeboy@demo:/home/ubuntu/workspace $ ls
+README.md*  hello-world.html  hello.js  hello_duplicate.js  pikachu/
+dopeboy@demo:/home/ubuntu/workspace $ mv hello_duplicate.js pikachu/
+dopeboy@demo:/home/ubuntu/workspace $ cd pikachu/
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ ls
+hello_duplicate.js
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ 
+```
+The `mv` command can take in two parameters: the file you wish to move and the directory to which you wish to move it to. Here, we moved "hello_duplicate.js" to the "pikachu" folder.
+
+#### Rename a file
+
+How do we rename a file?
+
+```
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ ls
+hello_duplicate.js
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ mv hello_duplicate.js duplicate.js
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ ls
+duplicate.js
+dopeboy@demo:/home/ubuntu/workspace/pikachu $ 
+```
+Here, we reused the `mv` command. The first parameter is the file we wish to rename and the second is the new name we want it to have.
+
+#### Tab completion
+
+Suppose I have a file with a long name:
+
+```
+dopeboy@demo:/home/ubuntu/workspace $ ls
+README.md*  hello-world.html  hello.js  pikachu/  supercalifragilisticexpialidocious.js
+```
+Then suppose I want to move "supercalifragilisticexpialidocious.js" to the "pikachu" folder. I'd begin typing:
+
+```
+mv supercali...
+```
+and realize that it'd take forever to type the filename. 
+
+Luckily, the terminal gives us a keyboard shortcut to type long files easy. If I type in
+
+```
+mv s
+```
+and hit the Tab key, the terminal will auto-complete the rest of the filename for me to
+
+```
+mv supercalifragilisticexpialidocious.js
+```
+Then I can proceed with my `mv` command as usual. 
+
 
 
 ### Guided practice ("We do")
