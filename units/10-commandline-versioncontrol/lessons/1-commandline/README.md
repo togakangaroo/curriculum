@@ -204,10 +204,15 @@ mv supercalifragilisticexpialidocious.js
 ```
 Then I can proceed with my `mv` command as usual. 
 
-
-
 ### Guided practice ("We do")
 
+Let's login into our Cloud9 and go to the terminal. If there isn't atleast one file present in the workspace, let's create one by clicking on File->New file. Let's call this file "guinea_pig.js".
+
+1. Let's print out the current directory.
+2. Let's list all the files and folders.
+3. Let's copy "guinea_pig.js". Let's call the new file "lab_rat.js".
+4. Let's delete that new copy. 
+5. Let's create a new directory
 
 
 ### Independent practice ("You do")
