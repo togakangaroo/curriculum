@@ -211,13 +211,19 @@ Let's login into our Cloud9 and go to the terminal. If there isn't atleast one f
 1. Let's print out the current directory.
 2. Let's list all the files and folders.
 3. Let's copy "guinea_pig.js". Let's call the new file "lab_rat.js".
-4. Let's delete that new copy. 
-5. Let's create a new directory
-
+4. Let's delete "lab_rat.js".
+5. Let's create a new directory called "pen".
+6. Let's move "guinea_pig.js" to the "pen" folder.
 
 ### Independent practice ("You do")
 
+In Cloud9, open up a new workspace. If there isn't atleast one file present in the workspace, create one by clicking on File->New file. Let's call this file "tomato.js".
 
+1. Let's print out the current directory.
+2. Let's list all the files and folders.
+3. Let's copy "tomato.js". Let's call the new file "strawberry.js".
+5. Let's create two new directories: "fruits" and "vegetables".
+6. Move "tomato.js" and "strawberry.js" to the appropriate folders.
 
 #### Exit ticket
 
@@ -225,13 +231,11 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about Git. This is important because Git is an essential tool for working on code in a team setting.
+Today you learned about the command line. This is important because the command line lets us talk to the computer in a defined and quick way. Next, we'll look at version control and running `git` commands in the terminal.
 
 #### Homework
 
-[Link to homework](homework/)
-
-Remind students when homework is due and how it will be collected.
+There is no homework for this lesson/.
 
 ## After class
 
