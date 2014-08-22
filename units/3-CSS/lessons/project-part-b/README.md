@@ -8,7 +8,13 @@ This project involves taking the page created in previous lessons using General 
 ~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
 ~~Also be sure to include a stater and solution sample code.~~
 
+### Prerequisites
 Students should only start this project after they have ran through the [Bootstrap lesson](https://github.com/ScriptEdcurriculum/curriculum/tree/master/units/3-CSS/lessons/4-bootstrap).
+
+### Starter code
+
+### Solution code
+
 
 ##During Class
 
