@@ -5,8 +5,6 @@
 This project involves taking the page created in previous lessons using General Assembly's Dash program and adapting it to use Twitter Bootstrap. The objective of this project is to get our students more practice with Bootstrap and also to teach them about the standard layout of a page (header, body, footer, etc).
  
 ##Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
-~~Also be sure to include a stater and solution sample code.~~
 
 ### Prerequisites
 Students should only start this project after they have ran through the [Bootstrap lesson](https://github.com/ScriptEdcurriculum/curriculum/tree/master/units/3-CSS/lessons/4-bootstrap).
@@ -15,11 +13,17 @@ Students should only start this project after they have ran through the [Bootstr
 
 ### Solution code
 
+### Assessment
+
+1. Write do-now based off of [assessments from previous lesson](../../../3-css/lessons/4-bootstrap/assessments/).
 
 ##During Class
 
 ###Do Now
-As the students walk into class they are...
+
+1. Attendance: http://scripted.org/attendance
+2. Return graded do-now and exit ticket from previous class
+3. Do-now quiz
 
 ###Opening
 ~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
