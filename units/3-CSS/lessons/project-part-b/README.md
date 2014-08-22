@@ -1,4 +1,4 @@
-#Project 3 - 
+# Twitter Bootstrap Project
 
 ##Scope
 
