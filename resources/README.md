@@ -13,7 +13,7 @@
 [Sample JSBin Submission Form -- for collecting student work](https://docs.google.com/a/scripted.org/forms/d/1VBpKPWOAvvK7o7ujlrXBgGahPkSutjYh9us17gYg2PE/edit)
 
 
-###Supplemental Lessons from Fall 2013
+###Supplemental Lessons from Volunteer Teams
 [Supplemental Lesson on Booleans and While Loops - By 2013-2014 HVA Team](https://docs.google.com/presentation/d/1dXAmM24Vt7ULixxW4P_tlgI_Vi7nrDqlqP-_8WGIIyM/edit?usp=sharing)
 
 [Supplemental Lesson on Functions -- with challenges by 2013-2014 HVA Team](https://googledrive.com/host/0B7fujoPk5-DdN2QwOWRSR3dkLVE/Lesson27.html)
@@ -24,7 +24,7 @@
 
 [Additional Lessons - By Cristo Rey 2013-2014 THF Team](https://drive.google.com/a/scripted.org/folderview?id=0B2fF2axUr9M_ODdWTmsyelRNVms&usp=sharing)
 
-[Additional Lesson - By Richard Green 2013-2014 Team](https://drive.google.com/a/scripted.org/folderview?id=0B84oBIfKfkZ5d1pTWmNmNi05akU&usp=sharing#)
+[Additional Lessons - By Richard Green 2013-2014 Team](https://drive.google.com/a/scripted.org/folderview?id=0B84oBIfKfkZ5d1pTWmNmNi05akU&usp=sharing#)
 
 ###Jeopardy Games
 
