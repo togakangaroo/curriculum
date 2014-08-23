@@ -13,11 +13,11 @@ Students should only start this project after they have ran through the [Bootstr
 
 ### Starter code
 
-See [here](starter_code/) for code and [here](https://cdn.rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/starter_code/index.html) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/starter_code/index.html) to view.
 
 ### Solution code
 
-See [here](starter_code/) for code and [here](https://cdn.rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/solution_code/index.html) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/solution_code/index.html) to view.
 
 
 
