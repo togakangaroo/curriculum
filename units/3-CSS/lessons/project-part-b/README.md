@@ -1,4 +1,4 @@
-# Twitter Bootstrap Project
+# About Me with Bootstrap
 
 ##Scope
 
