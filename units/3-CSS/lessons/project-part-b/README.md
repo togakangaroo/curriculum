@@ -10,7 +10,8 @@ This project involves taking the "About me" created in lesson 2 and adapting it 
 Students should only start this project after they have ran through the [Bootstrap lesson](https://github.com/ScriptEdcurriculum/curriculum/tree/master/units/3-CSS/lessons/4-bootstrap).
 
 ### Starter code
-*None*
+
+See [here](starter_code/).
 
 ### Solution code
 
