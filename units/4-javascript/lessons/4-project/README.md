@@ -55,8 +55,8 @@ generateRandomNumber();
 Your functions must be named the same as above and must take in the amount of parameters.
 
 2. Do not modify any of the other files.
-
 3. Note that the "log" button is not natural log (base e) but log base 10.
+4. The random number button should generate a number between 1 and 1000.
 
 ###Brianstorming
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
