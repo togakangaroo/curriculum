@@ -19,7 +19,7 @@ During unit 2 students will set up an account with GitHub and Cloud9 account. [T
 | [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
 | [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  |  | 
 | [**9. jQuery**] (units/9-jquery)| 2 | Selectors, click handlers |  |
-| [**10. Command line & version control**](units/10-commandline-versioncontrol) | 2  | CRUD operations in terminal, Git, Github, `clone`, `push`,`pull` |   
+| [**10. Command line & version control**](units/10-commandline-versioncontrol) | 2  | CRUD operations in terminal, Git, Github, `clone`, `push`,`pull` | *N/A* |
   
  
 ---
