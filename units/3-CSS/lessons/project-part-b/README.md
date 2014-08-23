@@ -15,6 +15,9 @@ See [here](starter_code/) for code and [here](https://cdn.rawgit.com/ScriptEdcur
 
 ### Solution code
 
+See [here](starter_code/) for code and [here](https://cdn.rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/solution_code/index.html) to view.
+
+
 
 ### Assessment
 
