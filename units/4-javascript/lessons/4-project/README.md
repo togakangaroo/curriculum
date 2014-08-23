@@ -1,4 +1,4 @@
-# Integer Calculator
+# Calculator
 
 ![image](http://i.imgur.com/hbZ3reC.jpg)
 
