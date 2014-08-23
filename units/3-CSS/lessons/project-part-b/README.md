@@ -11,7 +11,7 @@ Students should only start this project after they have ran through the [Bootstr
 
 ### Starter code
 
-See [here](starter_code/).
+See [here](starter_code/) for code and [here](https://cdn.rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/starter_code/index.html) to view.
 
 ### Solution code
 
@@ -42,9 +42,9 @@ You are going to take your "About me" page from lesson 2 and adapt it to use Twi
 ###Brianstorming
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
 
-1. Look at the source code of the link above.
-2. Copy it over to your own project.
-3. Bring in the Bootstrap CSS file into your project.
+1. Open the starter code. Understand what is going on.
+2. Bring it into your own project and view it. Does it show what you expect?
+3. Identify the parts that need to change.
 
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
