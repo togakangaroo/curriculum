@@ -10,7 +10,7 @@ This unit focuses on the styling of websites using CSS. Through several learning
 2. [Multiple Pages & External Style Sheets **Project 3A**](lessons/2-pagesStyles)
 3. [Div Tags & Div Classes](lessons/3-div)
 4. [Twitter bootstrap](lessons/4-bootstrap)
-5. [Project Part B](lessons/project-part-b)
+5. [About Me with bootstrap](lessons/project-part-b)
 
 ##Standards
 
