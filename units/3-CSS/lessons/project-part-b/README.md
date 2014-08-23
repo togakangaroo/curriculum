@@ -10,8 +10,10 @@ This project involves taking the "About me" created in lesson 2 and adapting it 
 Students should only start this project after they have ran through the [Bootstrap lesson](https://github.com/ScriptEdcurriculum/curriculum/tree/master/units/3-CSS/lessons/4-bootstrap).
 
 ### Starter code
+*None*
 
 ### Solution code
+
 
 ### Assessment
 
@@ -34,10 +36,14 @@ What is a header? What is a body? What is a footer? Let's open an article on the
 The people who created Bootstrap knew of these sections. They packed Boostrap with specific styles for these sections and many more.
 
 ###Lecture
-You are going to take your "About me" page from lesson 2 and adapt it to use Twitter Bootstrap.
+You are going to take your "About me" page from lesson 2 and adapt it to use Twitter Bootstrap. You are specifically going to make your new page look like [this](http://getbootstrap.com/examples/jumbotron-narrow/). 
 
 ###Brianstorming
-*N/A*
+Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
+
+1. Look at the source code of the link above.
+2. Copy it over to your own project.
+3. Bring in the Bootstrap CSS file into your project.
 
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
