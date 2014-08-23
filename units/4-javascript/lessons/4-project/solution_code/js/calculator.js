@@ -4,12 +4,19 @@ $(document).ready(function()
 	var first_operand = null;
 	var second_operand = null;
 	var operator = null;
+	var rand_first_operand_flag = false;
+	var rand_second_operand_flag = false;
 
 	function clear()
 	{
 		$('#question').empty();
 		$('#answer').empty();
 		state = 0;
+		first_operand = null;
+		second_operand = null;
+		operator = null;
+		rand_first_operand_flag = false;
+		rand_second_operand_flag = false;
 	}
 
 	clear();
@@ -19,54 +26,103 @@ $(document).ready(function()
   		return !isNaN(parseFloat(n)) && isFinite(n);
 	}
 
-	// Simple FSM: operand -> operator -> operand -> equal sign
-	// states: 0 -> 1 -> 2 -> 3
+	function isOneOperandOperator(n) 
+	{
+  		return n == "SQRT" || n == "log";
+	}
+
+	function isTwoOperandOperator(n) 
+	{
+  		return n == "/" || n == "x" || n == "-" || n == "+" || n == "^";
+	}
+
+	// Simple FSM
 	$('.calc-btn').click(function() 
 	{
 		var input = $(this).text();
-		//alert($(this).text());
 
 		if (input == "CLEAR")
 			clear();
-
-		else if (state == 0 && isNumeric(input))
+		
+		if (state == 0)
 		{
-			first_operand = input;
-			$('#question').append(input);
-			++state;
+			if (input == "RAND" && first_operand == null)
+			{
+				rand_first_operand_flag = true;
+				var random_number = generateRandomNumber();
+				first_operand = random_number;
+				$('#question').append(random_number);
+			}
+
+			else if (isNumeric(input) && rand_first_operand_flag == false)
+			{
+				first_operand = first_operand == null ? input: parseInt(first_operand.toString() + input);
+				$('#question').append(input);
+			}
+
+			else if (isTwoOperandOperator(input) && first_operand != null)
+			{
+				operator = input;
+				$('#question').append(" " + input);
+				state = 1;
+			}
+
+			else if (isOneOperandOperator(input) && first_operand != null)
+			{
+				operator = input;
+
+				if (operator == "SQRT")
+				{
+					answer = square_root(first_operand);
+					$('#question').prepend("sqrt(");
+					$('#question').append(")");
+				}
+
+				else if (operator == "log")
+				{
+					answer = logBase10(first_operand);
+					$('#question').prepend("log(");
+					$('#question').append(")");					
+				}
+
+				$('#question').append(" =");
+				$('#answer').append(answer);				
+			}
 		}
 
-		else if (state == 1 && !isNumeric(input))
+		else if (state == 1)
 		{
-			operator = input;
-			$('#question').append(" " + input);
-			++state;
+			if (input == "RAND" && second_operand == null)
+			{
+				rand_second_operand_flag = true;
+				var random_number = generateRandomNumber();
+				second_operand = random_number;
+				$('#question').append(" " + random_number);
+			}
+
+			else if (isNumeric(input)  && rand_second_operand_flag == false)
+			{
+				$('#question').append(second_operand == null ? " " + input : input);
+				second_operand = second_operand == null ? input: parseInt(second_operand.toString() + input);
+			}	
+
+			else if (input == "=" && second_operand != null)
+			{
+				if (operator == '/')
+					answer = divide(first_operand, second_operand);
+				else if (operator == "x")
+					answer = multiply(first_operand, second_operand);	
+				else if (operator == "-")
+					answer = subtract(first_operand, second_operand);	
+				else if (operator == "+")
+					answer = add(first_operand, second_operand);	
+				else if (operator == "^")
+					answer = power(first_operand, second_operand);	
+
+				$('#question').append(" =");
+				$('#answer').append(answer);
+			}		
 		}
 
-		else if (state == 2 && isNumeric(input))
-		{
-			second_operand = input;
-			$('#question').append(" " + input);
-			++state;
-		}
-
-		else if (state == 3 && input == "=")
-		{
-			$('#question').append(" " + input);
-			var answer = null;
-
-			if (operator == '/')
-				answer = divide(first_operand, second_operand);
-			else if (operator == "x")
-				answer = multiply(first_operand, second_operand);	
-			else if (operator == "-")
-				answer = subtract(first_operand, second_operand);	
-			else if (operator == "+")
-				answer = add(first_operand, second_operand);	
-
-			$('#answer').append(answer);
-
-			++state;
-		}
 	});
 });
