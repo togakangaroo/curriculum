@@ -1,7 +1,9 @@
-ScriptEd Curriculum Year 1
+ScriptEd Curriculum
 ===================
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ScriptEd Curriculum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ScriptEdcurriculum/curriculum" property="cc:attributionName" rel="cc:attributionURL">ScriptEd, Inc.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ScriptEdcurriculum/curriculum" rel="dct:source">https://github.com/ScriptEdcurriculum/curriculum</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ScriptEd Curriculum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ScriptEdcurriculum/curriculum" property="cc:attributionName" rel="cc:attributionURL">ScriptEd, Inc.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ScriptEdcurriculum/curriculum" rel="dct:source">https://github.com/ScriptEdcurriculum/curriculum</a>.
 
+Year 1
+===================
 During unit 2 students will set up an account with GitHub and Cloud9 account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
 
 | Unit  | Lessons | Topics | Project |
@@ -20,7 +22,7 @@ During unit 2 students will set up an account with GitHub and Cloud9 account. [T
  
 ---
 
-ScriptEd Curriculum Year 2
+Year 2
 =========================
 Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account for students who need to do so. 
 
