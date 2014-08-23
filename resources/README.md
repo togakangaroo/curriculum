@@ -1,6 +1,6 @@
 ##Teacher Resources
 
-[Guidelines Procedures and FAQs for Volunteers](https://github.com/ScriptEdcurriculum/curriculum/blob/master/Resources/Guidelines_Procedures_FAQs.md)
+[Guidelines Procedures and FAQs for Volunteers](https://github.com/ScriptEdcurriculum/curriculum/blob/master/resources/Guidelines_Procedures_FAQs.md)
 
 [Interactive Teaching Techniques](https://github.com/ScriptEdcurriculum/curriculum/blob/master/Resources/interactive_techniques_for_teaching.md)
 
