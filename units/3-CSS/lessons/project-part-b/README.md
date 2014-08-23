@@ -2,7 +2,7 @@
 
 ##Scope
 
-This project involves taking the page created in previous lessons using General Assembly's Dash program and adapting it to use Twitter Bootstrap. The objective of this project is to get our students more practice with Bootstrap and also to teach them about the standard layout of a page (header, body, footer, etc).
+This project involves taking the "About me" created in lesson 2 and adapting it to use Twitter Bootstrap. The objective of this project is to get our students more practice with Bootstrap and also to teach them about the standard layout of a page (header, body, footer, etc).
  
 ##Before Class
 
@@ -26,20 +26,24 @@ Students should only start this project after they have ran through the [Bootstr
 3. Do-now quiz
 
 ###Opening
-~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
+
+What is Twitter Bootstrap? What does it do? What problem does it solve? 
+
+What is a header? What is a body? What is a footer? Let's open an article on the New York Times: [link](http://www.nytimes.com/2014/08/27/dining/the-virtues-of-green-bell-peppers.html?_r=1). Point out where these three sections are on this page.
+
+The people who created Bootstrap knew of these sections. They packed Boostrap with specific styles for these sections and many more.
 
 ###Lecture
-Today in class you are all going to make...[Here]() is an example of one that we(the teachers) made before class.
+You are going to take your "About me" page from lesson 2 and adapt it to use Twitter Bootstrap.
 
-###Project Creation Time
-
-###Brianstorming/Prototyping
+###Brianstorming
+*N/A*
 
 ###Build Time
-Students may work alone or pair program (teachers should use their own discretion.) The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
 ##Closing
-~~Will the studetns present these projects? How will the teacher end this project?~~
+Select students to present their work to the class.
 
 ###Check for Understanding
 Teachers should keep track of student success while they are presenting to the class.
