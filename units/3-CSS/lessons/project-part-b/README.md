@@ -1,5 +1,7 @@
 # About Me with Bootstrap
 
+![image](http://i.imgur.com/geXdzzG.jpg)
+
 ##Scope
 
 This project involves taking the "About me" created in lesson 2 and adapting it to use Twitter Bootstrap. The objective of this project is to get our students more practice with Bootstrap and also to teach them about the standard layout of a page (header, body, footer, etc).

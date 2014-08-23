@@ -1,34 +1,78 @@
-#Project 4 - 
-![Image]() 
-#Scope
-~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+# Integer Calculator
+
+![image](http://i.imgur.com/hbZ3reC.jpg)
+
+##Scope
+
+This project involves implementing the core functionality of a two-operand, integer calculator. The objective of this project is for students to practice creating variables and functions. They will also learn to research existing functions and call them when necessary. 
  
-#Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
-~~Also be sure to include a stater and solution sample code.~~
+##Before Class
 
-#During Class
+### Prerequisites
+Students should only start this project after they have completed the other lessons in the unit.
 
-##Do Now
-As the students walk into class they are...
+### Starter code
 
-##Opening
-~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
+See [here](starter_code/) for code and [here]() to view.
 
-##Lecture
-Today in class you are all going to make...[Here]() is an example of one that we(the teachers) made before class.
+### Solution code
 
-##Project Creation Time
-#####Brianstorming/Prototyping
+See [here](starter_code/) for code and [here]() to view.
 
-#####Build Time
-Students may work alone or pair program (teachers should use their own discretion.) The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
+### Assessment
+
+1. Write do-now based off of [assessments from previous lesson](../../../4-javascript/lessons/3-pseudocode/assessments/).
+
+##During Class
+
+###Do Now
+
+1. Attendance: http://scripted.org/attendance
+2. Return graded do-now and exit ticket from previous class
+3. Do-now quiz
+
+###Opening
+
+What is a calculator? How do we use one? Let's walk through every step we have to go through to figure out 10+11. 
+
+For 10+11, what are the operands? What's the operator? And what's the result?
+
+###Lecture
+You are going to build the guts of a two-operand, integer calculator. You will be given some starter code. Instructions:
+
+1. You are to modify js/guts.js. You will add the following functions to it:
+
+```
+divide(x,y);
+multiply(x,y);
+subtract(x,y);
+add(x,y);
+power(x,y);
+square_root(x);
+logBase10(x);
+generateRandomNumber();
+```
+Your functions must be named the same as above and must take in the amount of parameters.
+
+2. Do not modify any of the other files.
+
+3. Note that the "log" button is not natural log (base e) but log base 10.
+
+###Brianstorming
+Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
+
+1. On paper, write down the formulas for each of the functions. Note the parameters you have to deal with.
+2. Bring the starter code into your own environment.
+3. Successfully solve your favorite function. Make sure it works before moving on to others.
+
+###Build Time
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
 ##Closing
-~~Will the studetns present these projects? How will the teacher end this project?~~
+Select students to present their work to the class.
 
-##Check for Understanding
+###Check for Understanding
 Teachers should keep track of student success while they are presenting to the class.
 
-##How to Submit
+###How to Submit
 The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
