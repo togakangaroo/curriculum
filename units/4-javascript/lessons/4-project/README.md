@@ -40,7 +40,7 @@ For 10+11, what are the operands? What's the operator? And what's the result?
 ###Lecture
 You are going to build the guts of a two-operand, integer calculator. You will be given some starter code. Instructions:
 
-1. You are to modify js/guts.js. You will add the following functions to it:
+1. You are to modify `js/guts.js`. You will add the following functions to it:
 
 ```
 divide(x,y);
