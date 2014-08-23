@@ -7,7 +7,7 @@ During unit 2 students will set up an account with GitHub and Cloud9 account. [T
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | [Ol Mc'Donald MadLibs](units/1-introduction/lessons/3-variablesLogic) w/ `if`/`else` statement | N/A |
 | [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 
-| [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, pseudo-code, comments |  | 
+| [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments |  | 
 | [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison |  | 
 | [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
 | [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
