@@ -1,0 +1,16 @@
+.calc-row:not(:last-child)
+{
+	margin-bottom: 10px;
+}
+
+#question
+{
+	margin-top: 50px;
+	font-size: 60px;
+}
+
+#answer
+{
+	margin-top: 30px;
+	font-size: 60px;
+}
