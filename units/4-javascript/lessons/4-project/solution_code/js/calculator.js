@@ -86,7 +86,7 @@ $(document).ready(function()
 				}
 
 				$('#question').append(" =");
-				$('#answer').append(answer);				
+				$('#answer').append(answer).hide().fadeIn(1000);				
 			}
 		}
 
@@ -120,7 +120,7 @@ $(document).ready(function()
 					answer = power(first_operand, second_operand);	
 
 				$('#question').append(" =");
-				$('#answer').append(answer);
+				$('#answer').append(answer).hide().fadeIn(1000);
 			}		
 		}
 
