@@ -13,11 +13,11 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here]() to view.
+See [here](starter_code/) for code and [here](https://cdn.rawgit.com/ScriptEdcurriculum/curriculum/master/units/4-javascript/lessons/4-project/starter_code/index.html) to view.
 
 ### Solution code
 
-See [here](starter_code/) for code and [here]() to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/4-javascript/lessons/4-project/solution_code/index.html) to view.
 
 ### Assessment
 
