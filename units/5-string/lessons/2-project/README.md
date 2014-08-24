@@ -13,11 +13,11 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here]() to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/5-string/lessons/2-project/starter_code/index.html) to view.
 
 ### Solution code
 
-See [here](starter_code/) for code and [here]() to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/5-string/lessons/2-project/solution_code/index.html) to view.
 
 ### Assessment
 
