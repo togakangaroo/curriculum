@@ -44,7 +44,7 @@ function runMadlibs(text, boy_name_1, noun_1, occupation_1, measurement_1, noun_
 					adjective_1, game_1, adjective_2, plural_noun, verb_ing_1)
 ```
 
-You must create and implement this function. The `text` variable represents the text that you will need to modify. Print it out to the console to get more clues. This function must return the modified text. 
+You must create and implement this function. The `text` variable represents the text that you will need to modify. Print it out to the console to get more clues. The other parameters represent the values from the text boxes on the page. This function must return the modified text. 
 
 ###Brianstorming
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
