@@ -1,4 +1,4 @@
-#Lesson 2 - Command line
+#Lesson 1 - Command line
 
 ![image](http://i.imgur.com/FJ5Hsq0.jpg)
 
