@@ -1,34 +1,68 @@
-#Project 5 - 
-![Image]() 
-#Scope
-~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+# Madlibs
+
+![image](http://i.imgur.com/7HUunNK.jpg)
+
+##Scope
+
+This project involves implementing the core functionality for a simple mad libs game. The objective of this project is for students to practice their string manipulation skills. 
  
-#Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
-~~Also be sure to include a stater and solution sample code.~~
+##Before Class
 
-#During Class
+### Prerequisites
+Students should only start this project after they have completed the other lessons in the unit.
 
-##Do Now
-As the students walk into class they are...
+### Starter code
 
-##Opening
-~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
+See [here](starter_code/) for code and [here]() to view.
 
-##Lecture
-Today in class you are all going to make...[Here]() is an example of one that we(the teachers) made before class.
+### Solution code
 
-##Project Creation Time
-#####Brianstorming/Prototyping
+See [here](starter_code/) for code and [here]() to view.
 
-#####Build Time
-Students may work alone or pair program (teachers should use their own discretion.) The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
+### Assessment
+
+1. Write do-now based off of [assessments from previous lesson](../../../5-string/lessons/1-string/assessments/).
+
+##During Class
+
+###Do Now
+
+1. Attendance: http://scripted.org/attendance
+2. Return graded do-now and exit ticket from previous class
+3. Do-now quiz
+
+###Opening
+
+What is madlibs? Let's play a game together [here](http://www.madglibs.com/showglib.php?glibid=180).
+
+###Lecture
+You are going to build the guts of a madlibs game. You will be given starter code. Your instructions are:
+
+1. Modify `js/guts.js`. It must have the following function in it:
+```
+function runMadlibs(text, boy_name_1, noun_1, occupation_1, measurement_1, noun_2, 
+					adjective_1, game_1, adjective_2, plural_noun, verb_ing_1)
+```
+
+You must create and implement this function. The `text` variable represents the text that you will need to modify. Print it out to the console to get more clues.
+
+2. This function must return the modified text. 
+
+###Brianstorming
+Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
+
+1. What string functions do you anticipate using? How do you use them?
+2. Bring the starter code into your own environment.
+3. Replace one word and check that your code works. Then move on to others.
+
+###Build Time
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
 ##Closing
-~~Will the studetns present these projects? How will the teacher end this project?~~
+Select students to present their work to the class.
 
-##Check for Understanding
+###Check for Understanding
 Teachers should keep track of student success while they are presenting to the class.
 
-##How to Submit
+###How to Submit
 The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
