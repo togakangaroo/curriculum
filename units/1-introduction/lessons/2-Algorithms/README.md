@@ -44,7 +44,7 @@ Students will be able to construct an algorithm in Scratch that moves a sprite a
 
 ### Do-now
 
-1. Attendance: http://scripted.org/attendance
+1. Attendance: Teacher takes student attendance at www.kinvolved.com
 2. Tell students to take out the homework from yesterday. They can make quick corrections if needed
 
 
