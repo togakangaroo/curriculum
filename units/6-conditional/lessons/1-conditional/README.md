@@ -41,7 +41,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Do-now
 
-1. Attendance: http://scripted.org/attendance
+1. Attendance: Teacher takes student attendance at www.kinvolved.com
 2. Return graded do-now and exit ticket from previous class
 3. Do-now quiz
 
