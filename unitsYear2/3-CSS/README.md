@@ -1,4 +1,4 @@
-#Project 6 - Fractal Art
+#Project 3 - CSS Mastery
 ![Image](http://)
 
 ##Scope
