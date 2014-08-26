@@ -41,7 +41,7 @@
 
 ### Do-now
 
-1. Attendance: http://scripted.org/attendance
+1. Attendance: Teacher takes student attendance at www.kinvolved.com
 2. Give each student a General Assembly walkthrough worksheet (see references). Do not allow students to log onto the tutorial yet.
 
 ## Opening
