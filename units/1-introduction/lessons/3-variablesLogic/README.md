@@ -43,7 +43,7 @@
 
 ### Do-now
 
-1. Attendance: http://scripted.org/attendance
+1. Attendance: Teacher takes student attendance at www.kinvolved.com
 2. Hand students a printed copy of a MadLibs activity OR students may complete online version (links provided in reference section.)
 
 ## Opening
