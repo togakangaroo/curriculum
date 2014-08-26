@@ -43,7 +43,7 @@
 
 ### Do-now
 
-1. Attendance: http://scripted.org/attendance
+1. Attendance: Teacher takes student attendance at www.kinvolved.com
 2. Place the starter question on the board. The starter question can be found in slide 2 of the Google presentation (see references).
 
 
