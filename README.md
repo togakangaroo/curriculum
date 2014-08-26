@@ -8,8 +8,8 @@ Year 1
 ===================
 During unit 2 students will set up an account with GitHub and Cloud9 account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
 
-| Unit  | Lessons | Topics | Project |
-|-------|:-------:|------|--------------|
+| Unit  | Lessons | Topics | Project 	| 
+|-------|:-------:|------	|--------------|
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | [Ol Mc'Donald MadLibs](units/1-introduction/lessons/3-variablesLogic) w/ `if`/`else` statement | N/A |
 | [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 
@@ -28,15 +28,15 @@ Year 2
 =========================
 Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account for students who need to do so. 
 
-| Unit  | Date(s) of Lesson | Skills | Project | 
-|-------|:-------:|------|--------------|
-| [1. Scavenger Hunt](unitsYear2/1-JShunt)| 9/20/14 | Variables, Functions, Strings, Conditionals, Loops, | Scavenger hunt of many short programs (<10 lines each) |
+| Unit  | Date(s) of Lesson | Skills | Project | API | 
+|-------|:-------:|------|--------------|---------|
+| [1. Scavenger Hunt](unitsYear2/1-JShunt)| 9/20/14 | Variables, Functions, Strings, Conditionals, Loops, | Scavenger hunt of many short programs (<10 lines each) | N/A |
 | [2. Rock, Paper, Scissors](unitsYear2/2-RPS)| 10/4/14 | API, math.random, JQuery | A functioning game of user vs. bot |
 | [3. CSS Mastery](unitsYear2/3-CSS)|  |  |  |
 | [4. Playing Cards](unitsYear2/4-playingCards)|  |  |  | 
-| [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | 
+| [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
 | [6. Speech Synthesis](unitsYear2/6-speechSynthesis) |   | Form, API, Responsive Design, http calling, JQuery |  | 
 | [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
-| [8. Learningpod Test Prep](unitsYear2/8-learningpod) |   |   |  | 
+| [8. Learningpod Test Prep](unitsYear2/8-learningpod) |   |   |  |[Learningpod](http://www.learningpod.com/developer) | 
 | **10. Entrepreneurism** |  |  |  |
 | **11. ** |   | | 
