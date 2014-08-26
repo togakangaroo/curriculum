@@ -82,7 +82,7 @@ The ``project.js`` inclusion must be done after the jQuery inclusion because the
 
 ##### Starter template
 
-Copy and code below and paste it into your own JavaScript file (``project.js`` if you are continuing from above):
+Copy the code below and paste it into your own JavaScript file (``project.js`` if you are continuing from above):
 
 ```
 $( document ).ready(function() 
