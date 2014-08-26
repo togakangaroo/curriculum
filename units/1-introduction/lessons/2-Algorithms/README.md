@@ -6,7 +6,7 @@
 ---
 ###Teacher Preperation
 * Set up a table in the front of the room facing all the student desks. This is for the Paper Airplane demo.
-* A basic understanding of Scratch. Teacher should be familiar with motion, looks, control and event blocks.
+* A basic understanding of Scratch. Teacher should be familiar with motion, looks, control and event blocks. 
 
 
 ### Daily Objective
