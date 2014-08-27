@@ -33,7 +33,7 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ###Opening
 
-Let's play high low together as a class. I'm going to select a random number between 1 and 10 in my head. Your job is to guess the number.
+Let's play high low together as a class. I'm going to select a random number between 1 and 10 in my head. Your job is to guess the number. I can only say "too high", "too low", or "correct".
 
 ###Lecture
 You are going to build the guts of a high low game. You will be given starter code. Your instructions are:
