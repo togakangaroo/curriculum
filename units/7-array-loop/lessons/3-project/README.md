@@ -64,7 +64,7 @@ Modify `js/guts.js` and add a function called `getNoMoviesFoundText()` to it. Th
 
 Modify `js/guts.js` and add a function called `getMoviesFoundText(numberMatches)` to it. This function takes in one parameter: `numberMatches` represents the number of movies that matched the user's search query. This function should return a string that contains the message you want displayed to the user when there are movies found that match their search query.
 
-#### 5. printFoundMovies(indices, movies)
+#### 5. `printFoundMovies(indices, movies)`
 
 Modify `js/guts.js` and add a function called `printFoundMovies(indices, movies)` to it. This function takes in two parameters: `indices` represents an array of indices into the `movies` array of matched movies; `movies` is an array containing all movies. This function should return an array of strings. Each string should be a movie that matches the user's search query.
 
