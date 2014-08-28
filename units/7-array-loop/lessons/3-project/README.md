@@ -56,11 +56,11 @@ This function must search the `movies` array based on the query. It must return 
 
 For example, suppose the `movies` array contains "Captain America", "Transformers", "The Road", and "Road to Perdition". Suppose the query is "road". This function would return an array with two elements: 2, 3.
 
-#### 3. getNoMoviesFoundText()
+#### 3. `getNoMoviesFoundText()`
 
 Modify `js/guts.js` and add a function called `getNoMoviesFoundText()` to it. This function does not take in any parameters. This function should return a string that contains the message you want displayed to the user when there are no movies matching their search query.
 
-#### 4. getMoviesFoundText(numberMatches)
+#### 4. `getMoviesFoundText(numberMatches)`
 
 Modify `js/guts.js` and add a function called `getMoviesFoundText(numberMatches)` to it. This function takes in one parameter: `numberMatches` represents the number of movies that matched the user's search query. This function should return a string that contains the message you want displayed to the user when there are movies found that match their search query.
 
