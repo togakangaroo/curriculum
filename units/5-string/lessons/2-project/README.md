@@ -36,9 +36,9 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 What is madlibs? Let's play a game together [here](http://www.madglibs.com/showglib.php?glibid=180).
 
 ###Lecture
-You are going to build the guts of a madlibs game. You will be given starter code. You must:
+You are going to build the guts of a madlibs game. You will be given starter code. Your instructions are:
 
-#### `runMadlibs()`
+#### 1. `runMadlibs()`
 
 Modify `js/guts.js`. It must have the following function in it:
 ```
