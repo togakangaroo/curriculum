@@ -38,7 +38,9 @@ What is madlibs? Let's play a game together [here](http://www.madglibs.com/showg
 ###Lecture
 You are going to build the guts of a madlibs game. You will be given starter code. Your instructions are:
 
-1. Modify `js/guts.js`. It must have the following function in it:
+#### 1. `runMadlibs()`
+
+Modify `js/guts.js`. It must have the following function in it:
 ```
 function runMadlibs(text, boy_name_1, noun_1, occupation_1, measurement_1, noun_2, 
 					adjective_1, game_1, adjective_2, plural_noun, verb_ing_1)

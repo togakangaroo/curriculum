@@ -44,11 +44,11 @@ You are going to build the guts of a basic movie search engine. At the end, the 
 
 Here are your instructions. Follow them in order:
 
-#### 1. addMovies()
+#### 1. `addMovies()`
 
 Modify `js/guts.js` and add a function called `addMovies()` to it. This function does not take in any parameters. This function returns an array of strings where each string represents a movie.
 
-#### 2. searchMovies(movies, query)
+#### 2. `searchMovies(movies, query)`
 
 Modify `js/guts.js` and add a function called `searchMovies(movies, query)` to it. This function takes in two parameters: an array of movies (again, stored as strings) and a search query. This search query is a string and represents what the user is searching for. Use `console.log()` to verify these statements.
 
@@ -56,15 +56,15 @@ This function must search the `movies` array based on the query. It must return 
 
 For example, suppose the `movies` array contains "Captain America", "Transformers", "The Road", and "Road to Perdition". Suppose the query is "road". This function would return an array with two elements: 2, 3.
 
-#### 3. getNoMoviesFoundText()
+#### 3. `getNoMoviesFoundText()`
 
 Modify `js/guts.js` and add a function called `getNoMoviesFoundText()` to it. This function does not take in any parameters. This function should return a string that contains the message you want displayed to the user when there are no movies matching their search query.
 
-#### 4. getMoviesFoundText(numberMatches)
+#### 4. `getMoviesFoundText(numberMatches)`
 
 Modify `js/guts.js` and add a function called `getMoviesFoundText(numberMatches)` to it. This function takes in one parameter: `numberMatches` represents the number of movies that matched the user's search query. This function should return a string that contains the message you want displayed to the user when there are movies found that match their search query.
 
-#### 5. printFoundMovies(indices, movies)
+#### 5. `printFoundMovies(indices, movies)`
 
 Modify `js/guts.js` and add a function called `printFoundMovies(indices, movies)` to it. This function takes in two parameters: `indices` represents an array of indices into the `movies` array of matched movies; `movies` is an array containing all movies. This function should return an array of strings. Each string should be a movie that matches the user's search query.
 
