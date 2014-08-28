@@ -13,7 +13,7 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/9-jqueyr/lessons/2-project/starter_code/index.html) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/9-jquery/lessons/2-project/starter_code/index.html) to view.
 
 ### Solution code
 
