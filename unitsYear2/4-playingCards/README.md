@@ -20,13 +20,13 @@
 This project improves the student's industry skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
 **Technical Vocabulary:**  
-While completing this project the student will..
+While completing this project the student will receive aid from teachers who will be speaking in technical jargon.
 
 **Paired Programming:**   
-While completing this project the student will..
+While completing this project the student will initially be in groups to colloborate on game functionality, design and will be encourage to assit eachother when working individually on the project.
 
 **Version Control:**   
-While completing this project the student will..
+While completing this project the student will the student will be using a Github fork to manage their project.
 
 **Code Review:**   
 While completing this project the student will..
