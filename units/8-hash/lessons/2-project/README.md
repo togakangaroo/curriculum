@@ -17,7 +17,7 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ### Solution code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/8-hash/lessons/2-project/solution_code/index.html) to view.
+See [here](solution_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/8-hash/lessons/2-project/solution_code/index.html) to view.
 
 ### Assessment
 
