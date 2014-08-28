@@ -6,6 +6,9 @@ This project asks the student to create a webpage that is designed like a social
  
 #Before Class
 
+### Prerequisites
+Students should only start this project after they have completed the other lessons in the unit.
+
 ##Starter Code
 See [here](starterP2.html) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/2-HTML/lessons/4-project/starterP2.html) to view. 
 
