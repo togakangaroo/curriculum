@@ -109,18 +109,19 @@ $(document).ready(function()
 			else if (input == "=" && second_operand != null)
 			{
 				if (operator == '/')
-					answer = divide(first_operand, second_operand);
+					answer = divide(parseInt(first_operand), parseInt(second_operand));
 				else if (operator == "x")
-					answer = multiply(first_operand, second_operand);	
+					answer = multiply(parseInt(first_operand), parseInt(second_operand));	
 				else if (operator == "-")
-					answer = subtract(first_operand, second_operand);	
+					answer = subtract(parseInt(first_operand), parseInt(second_operand));	
 				else if (operator == "+")
-					answer = add(first_operand, second_operand);	
+					answer = add(parseInt(first_operand), parseInt(second_operand));	
 				else if (operator == "^")
-					answer = power(first_operand, second_operand);	
+					answer = power(parseInt(first_operand), parseInt(second_operand));	
 
 				$('#question').append(" =");
 				$('#answer').append(answer).hide().fadeIn(1000);
+				state = 2;
 			}		
 		}
 
