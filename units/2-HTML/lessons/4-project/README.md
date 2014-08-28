@@ -5,7 +5,12 @@
 This project asks the student to create a webpage that is designed like a social media page. The focus here is not to have functioning links or even a functioning page. The focus here is to have a page that resembles something you see on social media. Students will be able to complete this using the skills the have already learned in class.
  
 #Before Class
-Take a look at the [Starter Code](starterP2.html) and [Solution Code](solutionP2.html). Become familiar with the two documents as you will be using them in class.
+
+##Starter Code
+See [here](starterP2.html) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/2-HTML/lessons/4-project/starterP2.html) to view. 
+
+##Solution Code
+See [here](solutionP2.html) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/2-HTML/lessons/4-project/solutionP2.html) to view. 
 
 #During Class
 
