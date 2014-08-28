@@ -16,7 +16,7 @@ During unit 2 students will set up an account with GitHub and Cloud9 account. [T
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/4-javascript/lessons/4-project/) | 
 | [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison | [Madlibs](units/5-string/lessons/2-project) | 
 | [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | [High low](units/6-conditional/lessons/2-project) | 
-| [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
+| [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | [Madlibs](units/7-array-loop/lessons/3-project) | 
 | [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  |  | 
 | [**9. jQuery**] (units/9-jquery)| 2 | Selectors, click handlers |  |
 | [**10. Command line & version control**](units/10-commandline-versioncontrol) | 2  | CRUD operations in terminal, Git, Github, `clone`, `push`,`pull` | *N/A* |
