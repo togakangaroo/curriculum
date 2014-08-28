@@ -1,6 +1,6 @@
 # Address book
 
-![image](http://i.imgur.com/HuUsZQy.jpg)
+![image](http://i.imgur.com/HHyng59.jpg)
 
 ##Scope
 
