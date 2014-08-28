@@ -1,34 +1,76 @@
-#Project 8 - 
-![Image]() 
-#Scope
-~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+# Address book
+
+![image](http://i.imgur.com/HuUsZQy.jpg)
+
+##Scope
+
+This project inolves implementing the core functionality of a simple client side address book. The objective of this project is for students to practice their skills with hashes and strings.
  
-#Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
-~~Also be sure to include a stater and solution sample code.~~
+##Before Class
 
-#During Class
+### Prerequisites
+Students should only start this project after they have completed the other lessons in the unit.
 
-##Do Now
-As the students walk into class they are...
+### Starter code
 
-##Opening
-~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/8-hash/lessons/2-project/starter_code/index.html) to view.
 
-##Lecture
-Today in class you are all going to make...[Here]() is an example of one that we(the teachers) made before class.
+### Solution code
 
-##Project Creation Time
-#####Brianstorming/Prototyping
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/8-hash/lessons/2-project/solution_code/index.html) to view.
 
-#####Build Time
-Students may work alone or pair program (teachers should use their own discretion.) The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
+### Assessment
+
+1. Write do-now based off of [assessments from previous lesson](../../../8-hash/lessons/1-hash/assessments/).
+
+##During Class
+
+###Do Now
+
+1. Attendance: Teacher takes student attendance at www.kinvolved.com
+2. Return graded do-now and exit ticket from previous class
+3. Do-now quiz
+
+###Opening
+
+What is an address book? What do we use address books for? What kind of information does an address book store?
+
+###Lecture
+
+You are going to build the guts of a basic address book. This address book will contain your contacts. Here are your instructions:
+
+#### 1. Add `addContacts()`
+
+Modify `js/guts.js` and create a function called `addContacts()`. This function will not take in any parameters. It will return a hash. The hash shall be structed as follows:
+
+* The key of the hash must be your contact's name in string form.
+* The value of the hash must be another hash. 
+	* This second hash must contain three key-value pairs. The keys must be called: location, picture, and email. The values for each of these keys will be a string.
+
+Populate this hash with 5 contacts. For the picture value, supply a link to the picture in the form of a string. Use image hosting services such as [imgur](http://imgur.com) if you need to.
+
+#### 2. Add `searchContacts(contacts, query)`
+
+Modify `js/guts.js` and create a function called `searchContacts(contacts, query)`. This function will take in two parameters: `contacts` which is a hash containing the contacts from `addContacts()` and `query` which is the search query of the user. Use `console.log()` to verify that these statements are true.
+
+This function should return a hash containing all the contacts that match the user's search query. You should check the query against every key-value pair. In other words, the user should be able to search for a contact by name, location, or email.
+
+###Brianstorming
+Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
+
+1. Write down your contacts in a separate file. Get their names, locations, emails, and pictures ready.
+2. Think about the structure of the hash for `addContacts()`. Review what a hash in a hash looks like from the previous lesson if you need to.
+3. Think about how to scan through a hash for `searchContacts()`. 
+4. Bring the starter code into your own environment.
+
+###Build Time
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
 ##Closing
-~~Will the studetns present these projects? How will the teacher end this project?~~
+Select students to present their work to the class.
 
-##Check for Understanding
+###Check for Understanding
 Teachers should keep track of student success while they are presenting to the class.
 
-##How to Submit
+###How to Submit
 The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)

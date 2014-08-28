@@ -15,7 +15,7 @@ function searchMovies(movies, query)
 
 	for (var i=0; i<movies.length; ++i)
 	{
-		if (movies[i].toLowerCase() == query || movies[i].toLowerCase().indexOf(query) > -1)
+		if (movies[i].toLowerCase().indexOf(query.toLowerCase()) > -1)
 			indices.push(i);
 	}
 
