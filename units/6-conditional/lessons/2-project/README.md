@@ -38,13 +38,20 @@ Let's play high low together as a class. I'm going to select a random number bet
 ###Lecture
 You are going to build the guts of a high low game. You will be given starter code. Your instructions are:
 
-#### 1. Modify the following function in the `js/guts.js` file:
+#### 1. `generateRandomNumber()`
+
+Modify the following function in the `js/guts.js` file:
+
 ```
 function generateRandomNumber() { }
 ```
+
 This function must generate a random number between 1 and 10 and then return it.
 
-#### 2. Modify the following function in the `js/guts.js` file:
+#### 2. `checkGuess(guess, generatedRandomNumber) `
+
+Modify the following function in the `js/guts.js` file:
+
 ```
 function checkGuess(guess, generatedRandomNumber) {}
 ```
