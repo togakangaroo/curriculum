@@ -44,11 +44,11 @@ You are going to build the guts of a basic movie search engine. At the end, the 
 
 Here are your instructions. Follow them in order:
 
-#### 1. addMovies()
+#### 1. `addMovies()`
 
 Modify `js/guts.js` and add a function called `addMovies()` to it. This function does not take in any parameters. This function returns an array of strings where each string represents a movie.
 
-#### 2. searchMovies(movies, query)
+#### 2. `searchMovies(movies, query)`
 
 Modify `js/guts.js` and add a function called `searchMovies(movies, query)` to it. This function takes in two parameters: an array of movies (again, stored as strings) and a search query. This search query is a string and represents what the user is searching for. Use `console.log()` to verify these statements.
 
