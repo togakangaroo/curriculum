@@ -11,7 +11,7 @@ During unit 2 students will set up an account with GitHub and Cloud9 account. [T
 | Unit  | Lessons | Topics | Project 	| 
 |-------|:-------:|------	|--------------|
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | [Ol Mc'Donald MadLibs](units/1-introduction/lessons/3-variablesLogic) w/ `if`/`else` statement | N/A |
-| [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
+| [**2. HTML**](units/2-HTML/)| 3 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/4-javascript/lessons/4-project/) | 
 | [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison | [Madlibs](units/5-string/lessons/2-project) | 
