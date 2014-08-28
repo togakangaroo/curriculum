@@ -65,7 +65,7 @@ Before you start coding, identify the list of steps you need to do to finish thi
 
 1. On paper, write down the formulas for each of the functions. Note the parameters you have to deal with.
 2. Bring the starter code into your own environment.
-3. Successfully solve your favorite function. Make sure it works before moving on to others.
+3. Successfully solve the division function. Make sure it works before moving on to others.
 
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
