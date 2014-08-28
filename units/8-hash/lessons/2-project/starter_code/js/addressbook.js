@@ -5,6 +5,7 @@ $(document).ready(function()
 	contacts = addContacts();
 
 	showContacts(contacts);
+	$('#query').focus();
 
 	function showContacts(contacts)
 	{

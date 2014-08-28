@@ -3,22 +3,22 @@ var movies = [];
 $(document).ready(function()
 {
 	movies = addMovies();
+	$('#query').focus();
 
 	$("#search-btn").click(function()
 	{
 		var query = $('#query').val();
 
-		if (query != "")
+		if (query.trim() != "")
 		{
 			var indices = searchMovies(movies, query);
 
 			var resultsMessage = "";
 
+			$("#results").empty();
+
 			if (indices.length == 0)
-			{
 				resultsMessage = getNoMoviesFoundText();
-				$("#results").empty();
-			}
 
 			else
 			{

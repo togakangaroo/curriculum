@@ -3,6 +3,7 @@ var movies = [];
 $(document).ready(function()
 {
 	movies = addMovies();
+	$('#query').focus();
 
 	$("#search-btn").click(function()
 	{

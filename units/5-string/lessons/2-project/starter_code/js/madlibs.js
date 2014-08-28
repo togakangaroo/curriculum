@@ -7,6 +7,7 @@ $(document).ready(function()
 				the game of Quiditch and Wizard on his way to facing a Dark PLURAL-NOUN-1 teacher who is bent on VERB-ING-1 him.";
 
 	$("#post-process-box").hide();
+	$('#boy-name-1').focus();
 
 	$('#run-btn').click(function()
 	{

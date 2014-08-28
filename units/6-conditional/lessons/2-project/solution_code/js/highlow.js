@@ -13,6 +13,8 @@ $(document).ready(function()
 		
 		$('#check-btn').fadeIn(500);
 		$('#guess').fadeIn(500);
+	
+		$('#guess').focus();
 
 		return false;	
 	});
