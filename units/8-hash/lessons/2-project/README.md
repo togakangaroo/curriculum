@@ -39,7 +39,7 @@ What is an address book? What do we use address books for? What kind of informat
 
 You are going to build the guts of a basic address book. This address book will contain your contacts. Here are your instructions:
 
-#### 1. Add `addContacts()`
+#### 1. `addContacts()`
 
 Modify `js/guts.js` and create a function called `addContacts()`. This function will not take in any parameters. It will return a hash. The hash shall be structed as follows:
 
@@ -49,7 +49,7 @@ Modify `js/guts.js` and create a function called `addContacts()`. This function 
 
 Populate this hash with 5 contacts. For the picture value, supply a link to the picture in the form of a string. Use image hosting services such as [imgur](http://imgur.com) if you need to.
 
-#### 2. Add `searchContacts(contacts, query)`
+#### 2. `searchContacts(contacts, query)`
 
 Modify `js/guts.js` and create a function called `searchContacts(contacts, query)`. This function will take in two parameters: `contacts` which is a hash containing the contacts from `addContacts()` and `query` which is the search query of the user. Use `console.log()` to verify that these statements are true.
 
