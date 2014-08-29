@@ -1,6 +1,8 @@
 ##Teacher Resources
 
--[The ScriptEducator's Handbook: Guidelines, Procedures and Frequently Asked Questions fo ScriptEd Volunteers](https://docs.google.com/a/scripted.org/file/d/0B2fF2axUr9M_MW9KaXBoUWx0Z1U/edit)
+-[The ScriptEducator's Handbook: Guidelines, Procedures and Frequently Asked Questions for ScriptEd Volunteers](https://docs.google.com/a/scripted.org/file/d/0B2fF2axUr9M_MW9KaXBoUWx0Z1U/edit)
+
+-[Slides from 2014 Volunteer Training (Guidelines, Procedures, Teaching Crash Course for ScriptEd Volunteers)](https://docs.google.com/presentation/d/1guWXwNuANOFxd0CvcfUqnk_PFZsAN1didVEXfFy9Rc8/edit?usp=sharing)
 
 -[Resource List for Volunteers (Additional Lessons, teaching tools, etc.)](https://github.com/ScriptEdcurriculum/curriculum/blob/master/resources/resource_list_for_volunteers.md)
 
