@@ -226,7 +226,7 @@ Today you learned about variables in JavaScript and JavaScript itself. This is i
 
 [Link to homework](homework/)
 
-[Link to homework solution](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/1-variable/homework/solution_code)
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/1-variable/homework/solution_code)
 
 Remind students when homework is due and how it will be collected.
 
