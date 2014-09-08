@@ -18,7 +18,7 @@ Students will be able to create, initialize, access, and manipulate arrays.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../6-conditional/lessons/1-conditional/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../7-conditional/lessons/1-conditional/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
@@ -234,6 +234,8 @@ Today you learned about arrays. This is important because arrays are used to rep
 #### Homework
 
 [Link to homework](homework/)
+
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/8-array-loop/lessons/1-array/homework/solution_code)
 
 Remind students when homework is due and how it will be collected.
 
