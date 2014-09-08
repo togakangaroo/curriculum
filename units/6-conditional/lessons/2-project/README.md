@@ -4,7 +4,7 @@
 
 ##Scope
 
-This project involves implementing the core functionality for a simple high low game. The objective of this project is for students to practice construct conditional logic using `if/else` statements.
+This project involves implementing the core functionality for a simple high low game. The objective of this project is for students to practice conditional logic using `if/else` statements.
  
 ##Before Class
 
