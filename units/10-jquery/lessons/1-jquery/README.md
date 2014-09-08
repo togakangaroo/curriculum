@@ -371,6 +371,8 @@ Today you learned about jQuery. This is important because jQuery enables us to d
 
 [Link to homework](homework/)
 
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-jquery/lessons/1-jquery/homework/solution_code)
+
 Remind students when homework is due and how it will be collected.
 
 ## After class
