@@ -203,6 +203,8 @@ Today you learned about hashes. This is important because hashes are used to rep
 
 [Link to homework](homework/)
 
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/9-hash/lessons/1-hash/homework/solution_code)
+
 Remind students when homework is due and how it will be collected.
 
 ## After class
