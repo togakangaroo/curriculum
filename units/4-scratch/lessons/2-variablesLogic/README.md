@@ -1,4 +1,4 @@
-# Lesson 3 - Variables and Logic
+# Lesson 2 - Variables and Logic
 
 ![image](http://i.imgur.com/1Bb2Q1b.png)
 
