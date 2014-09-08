@@ -1,4 +1,4 @@
-#Lesson 2 - Computing Thought Processes
+#Lesson 1 - Computing Thought Processes
 
 ![image](http://i.imgur.com/tM1CA61.png)
 
