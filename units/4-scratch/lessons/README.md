@@ -1,12 +1,13 @@
 #Unit 1 - Introduction
 
 ##Synopsis
-The main goal of this unit is to have the students think like a computer programmer for the first time. This is accomplished by asking the students to create algorithmic, step-by-step directions to a mock program.
+This unit begins with an activity to demonstrate the difference between how a human and a program think. The first portion is completed without the use of a computer. After this, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
 
 ##Lessons
 
-1. [Human vs. Computing Thought Processes](lessons/1-computingProcesses)
-
+1. [Human vs. Computing Thought Processes](lessons/1-Computing Processes)
+2. [Algorithms](lessons/2-algorithms)
+3. [Boolean and Variables](lessons/3-variablesLogic)
 
 ##Standards
 
@@ -24,15 +25,9 @@ Use various types of phrases (noun, verb, adjectival, adverbial, participial, pr
 
 ####CSTA Standards
 
-**CT.L2-03**
+###CT.L2-03
 Define an algorithm as a sequence of instructions that can be processed by a computer. 
 
-**CT.L2-04**
-Evaluate ways that different algorithms may be used to solve the same problem. 
-
-####ScriptEd Standards
-
-**CPP.L2-03: Variables**  
-* Student can create, name, and assign values to variables. 
-* Student understands and can explain variable creation, reassignment, and scope.    
+###CT.L2-04
+Evaluate ways that different algorithms may be used to solve the same problem.
 

@@ -1,4 +1,4 @@
-#Unit 5 - Strings
+#Unit 6 - Strings
 
 ##Synopsis
 This unit introduces strings to our students. Students will learn what a string is. They will learn how to create, initialize, and access them. Next, they will learn how to manipulate strings through functions. Finally, students will also learn the basics of casting and comparing strings. 

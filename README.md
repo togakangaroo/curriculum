@@ -10,16 +10,17 @@ During unit 2 students will set up an account with GitHub and Cloud9 account. [T
 
 | Unit  | Lessons | Topics | Project 	| 
 |-------|:-------:|------	|--------------|
-| [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | [Ol Mc'Donald MadLibs](units/1-introduction/lessons/3-variablesLogic) w/ `if`/`else` statement | N/A |
+| [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms |   N/A |
 | [**2. HTML**](units/2-HTML/)| 3 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 
-| [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/4-javascript/lessons/4-project/) | 
-| [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison | [Madlibs](units/5-string/lessons/2-project) | 
-| [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | [High low](units/6-conditional/lessons/2-project) | 
-| [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | [Movie search engine](units/7-array-loop/lessons/3-project) | 
-| [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  | [Address book](units/8-hash/lessons/2-project) | 
-| [**9. jQuery**] (units/9-jquery)| 2 | Selectors, click handlers | [Facebook wall](units/9-jquery/lessons/2-project) |
-| [**10. Command line & version control**](units/10-commandline-versioncontrol) | 2  | CRUD operations in terminal, Git, Github, `clone`, `push`,`pull` | *N/A* |
+| [**4. Programming with Scratch**] (units/4-scratch/) |  |  | [Ol Mc'Donald MadLibs](units/4-scratch/lessons/2-variablesLogic) w/ `if`/`else` statement | 
+| [**5. JavaScript**] (units/5-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/5-javascript/lessons/4-project/) | 
+| [**6. Strings**] (units/6-string/) | 2  | Functions, casting, comparison | [Madlibs](units/6-string/lessons/2-project) | 
+| [**7. Conditionals**](units/7-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | [High low](units/7-conditional/lessons/2-project) | 
+| [**8. Arrays & Loops**](units/8-array-loop/) | 3  | Arrays, `while` / `for` loops. | [Movie search engine](units/8-array-loop/lessons/3-project) | 
+| [**9. Hashes**](units/9-hash) | 2  | Hashes, key-value pairs, `for-in` loops  | [Address book](units/9-hash/lessons/2-project) | 
+| [**10. jQuery**] (units/10-jquery)| 2 | Selectors, click handlers | [Facebook wall](units/10-jquery/lessons/2-project) |
+| [**11. Command line & version control**](units/11-commandline-versioncontrol) | 2  | CRUD operations in terminal, Git, Github, `clone`, `push`,`pull` | *N/A* |
   
  
 ---

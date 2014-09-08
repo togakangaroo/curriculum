@@ -5,7 +5,6 @@
 ## Before class
 ---
 ###Teacher Preperation
-* Set up a table in the front of the room facing all the student desks. This is for the Paper Airplane demo.
 * A basic understanding of Scratch. Teacher should be familiar with motion, looks, control and event blocks. 
 
 
@@ -45,19 +44,14 @@ Students will be able to construct an algorithm in Scratch that moves a sprite a
 ### Do-now
 
 1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Tell students to take out the homework from yesterday. They can make quick corrections if needed
+2. Tell students to form their own opinion on the foloowing quote: "Computers are incredibly fast, accuarate and stupid; humans are incredibly slow, inaccuarateand brilliant; together they are powerful beyond imagination."
 
 
 
 ## Opening
-
-“Please hand-in your directions on how to make a paper airplane.” Collect homework and choose a “not-so-good” set of directions to demonstrate. Ask a student volunteer to read the directions aloud while you (the robot) act it out.
-  
-After you demo of a set of poorly written instructions, choose a set of well written instructions for a student to read and another student to follow at the front of the class. Ask class “How could these directions been improved?” After a quick conversation display the quote below on the board.  
-
 ![image](http://i.imgur.com/JbvNKe1.png)
 
-Reflections question to pose to the class can include, but not be limited to:
+Ask student volunteers to agree or disagree with the quote above. Use the prompts below to help facilitate conversation: 
 
 * How do a human and a computer/program work together?
 * Do you ever team with a computer/program?

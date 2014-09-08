@@ -1,4 +1,4 @@
-#Unit 6 - Conditionals
+#Unit 7 - Conditionals
 
 ##Synopsis
 This unit introduces the concept of booleans, `if/else` statements, comparison operators, and logical operators. Students will learn how to create, set, and test boolean typed variables. They will learn how to use conditional statements. They will learn the basic comparison operators along with the `&&`, `||`, and `!` logical operators.
