@@ -6,5 +6,6 @@
 
 -[Resource List for Volunteers (Additional Lessons, teaching tools, etc.)](https://github.com/ScriptEdcurriculum/curriculum/blob/master/resources/resource_list_for_volunteers.md)
 
+-[ScriptEd Foundations Rubric](https://docs.google.com/a/scripted.org/spreadsheets/d/1i21YAD2TBEn7nYeii5VH_7smUjCV13cvX2qgbhEkeZk/edit#gid=1132597865)
 
 
