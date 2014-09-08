@@ -6,6 +6,8 @@ Below please find ScriptEd's suggested curriculum for Year 1 and Year 2 Students
 
 Year 1
 ===================
+While completing the units below, the students are being qualified at the following skills laid out by the [ScriptEd Foundations Rubric](https://docs.google.com/a/scripted.org/spreadsheets/d/1i21YAD2TBEn7nYeii5VH_7smUjCV13cvX2qgbhEkeZk/edit#gid=1132597865)
+
 During unit 2 students will set up an account with GitHub and Cloud9 account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
 
 | Unit  | Lessons | Topics | Project 	| 
