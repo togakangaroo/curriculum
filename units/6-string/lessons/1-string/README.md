@@ -18,7 +18,7 @@ Students will be able to create, initialize, access, manipulate, compare, and ca
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../4-javascript/lessons/3-pseudocode/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../5-javascript/lessons/3-pseudocode/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
@@ -310,6 +310,8 @@ Today you learned about strings. This is important because strings are used to s
 #### Homework
 
 [Link to homework](homework/)
+
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/6-string/lessons/1-string/homework/solution_code)
 
 Remind students when homework is due and how it will be collected.
 
