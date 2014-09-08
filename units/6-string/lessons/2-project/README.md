@@ -21,7 +21,7 @@ See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/6-s
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../5-string/lessons/1-string/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../6-string/lessons/1-string/assessments/).
 
 ##During Class
 
