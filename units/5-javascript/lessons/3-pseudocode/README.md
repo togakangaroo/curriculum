@@ -198,6 +198,8 @@ Next, we will learn about string manipulation.
 
 [Link to homework](homework/)
 
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/3-pseudocode/homework/solution_code)
+
 Remind students when homework is due and how it will be collected.
 
 ## After class
