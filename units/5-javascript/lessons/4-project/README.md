@@ -13,7 +13,7 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/4-javascript/lessons/4-project/starter_code/index.html) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/5-javascript/lessons/4-project/starter_code/index.html) to view.
 
 ### Solution code
 
@@ -21,7 +21,7 @@ See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-j
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../4-javascript/lessons/3-pseudocode/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../5-javascript/lessons/3-pseudocode/assessments/).
 
 ##During Class
 
