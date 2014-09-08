@@ -17,7 +17,7 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ### Solution code
 
-See [here](solution_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/9-jquery/lessons/2-project/solution_code/index.html) to view.
+See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-jquery/lessons/2-project/solution_code) for code (private).
 
 ### Assessment
 
