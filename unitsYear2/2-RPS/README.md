@@ -1,5 +1,5 @@
 #Project 2 - Rock, Paper, Scissors
-![Image](https://lh4.ggpht.com/IESt13wsT2tUhH4uoNH5ucG-J5Hmk6jwT5na8VpCBltWRWjVj4Vc4wKN6ZlWx1bGGw=h900)
+![Image](./rps.jpg?raw=true)
 
 ##Scope
 
@@ -146,3 +146,13 @@ The teacher must ask students to share the link to their project on your school'
 
 ##Homework
 A possible homework is for the Lizard Spock variant with 5 choices.
+
+
+## Proper sourcing of images
+1. RPS: https://www.flickr.com/photos/ifmomsaysok/4262635874
+2. RPSLS: https://www.flickr.com/photos/elsantuario/6448112917
+3. Scissors: https://www.flickr.com/photos/arriabelli/2500283558
+4. Paper: https://www.flickr.com/photos/calliope/3468811439
+5. Rock: https://www.flickr.com/photos/kansasphoto/6157668054
+6. Lizard: https://www.flickr.com/photos/mdalmuld/14431710441
+7. Spock: https://www.flickr.com/photos/israel-avila/3676210312
