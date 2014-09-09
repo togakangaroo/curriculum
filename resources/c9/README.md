@@ -20,4 +20,13 @@ Go [here](https://github.com/join) and fill out the form. Remember your password
 
 ### Create Cloud9 account
 
-To create a 
+1. Go [here](https://c9.io/) and click on the Github icon in the upper left of the screen as seen below:
+
+![image](http://i.imgur.com/95AGSAw.png)
+
+2. Click on the green "Authorize application" button at the bottom of the screen.
+
+3. You're now logged into Cloud9. Click the "Dashboard" link in the upper right.
+4. You may see a pop-up telling you about the different plans Cloud9 offers. Ignore this and click on the green "Remind me later" button in the lower right.
+5. In the upper left
+
