@@ -36,7 +36,7 @@
 * img src=
 
 ###References
-* [Cloud 9 and GitHub Setup](Cloud9GitHubSetup.pdf)
+* [Cloud 9 and GitHub Setup](/resources/c9)
 * <https://c9.io/> 
 
 
