@@ -30,4 +30,9 @@ Go [here](https://github.com/join) and fill out the form. Remember your password
 
 5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so: ![image](http://i.imgur.com/5fZCQNd.png)
 
+6. A new pop-up window should appear. Copy the text below and paste it nn the "Source URL" box:
+
+```
+git@github.com:ScriptEdcurriculum/curriculum.git
+```
 
