@@ -13,7 +13,7 @@ Students should only start this project after they have completed the other less
 See [here](starterP2.html) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/2-HTML/lessons/4-project/starterP2.html) to view. 
 
 ##Solution Code
-See [here](solutionP2.html) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/2-HTML/lessons/4-project/solutionP2.html) to view. 
+See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/2-HTML/lessons/4-project) for code (private). 
 
 #During Class
 
