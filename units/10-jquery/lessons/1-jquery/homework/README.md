@@ -13,6 +13,7 @@ Your page needs to have the following:
 Your page needs to do the following:
 
 * Once the user puts in a URL and caption and clicks the post button, the image and caption should show.
+* Any subsequent entry should show above the previous post.
 
 ## Deliverables
 
