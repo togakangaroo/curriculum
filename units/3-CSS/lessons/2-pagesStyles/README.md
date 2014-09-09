@@ -60,7 +60,7 @@ Students should arrive to the # symbol needs to be replaced with a file path.
 In order for this new file path to link to another page we need to create that page.
 
 ## Guided Practice (“We Do”)
-Have all students open their computers log onto their Cloud9 account. If studnets do no already have a CLoud9 account they may use [this pdf.](gitHubCloud9Setup/Cloud9GitHubSetup.pdf)  
+Have all students open their computers log onto their Cloud9 account. If studnets do no already have a CLoud9 account they may use [this guide.](resources/c9)  
 Have students create a new workspace called AboutMe. Also have the teacher's workspace open on the front board. "All together let's create proper organization for this workspace." Create the following workspace as students follow along.  
 ![Image](http://i.imgur.com/6abqxzm.png)  
 At this point teachers should give a quick check for understanding to make sure all students have an organized workspace.  
