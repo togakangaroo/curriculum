@@ -8,7 +8,7 @@ Year 1
 ===================
 While completing the units below, the students are working towards becoming extremely qualified at all the skills found in the [ScriptEd Foundations Rubric](https://docs.google.com/a/scripted.org/spreadsheets/d/1i21YAD2TBEn7nYeii5VH_7smUjCV13cvX2qgbhEkeZk/edit#gid=1132597865)
 
-During unit 2 students will set up an account with GitHub and Cloud9 account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
+During unit 2, students will set up an account with GitHub and Cloud9 account. [This pdf](resources/c9) will serve as a tutorial for creating an account with each. 
 
 | Unit  | Lessons | Topics | Project 	| 
 |-------|:-------:|------	|--------------|
