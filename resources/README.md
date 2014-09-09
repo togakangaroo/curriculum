@@ -8,4 +8,4 @@
 
 [ScriptEd Foundations Rubric](https://docs.google.com/a/scripted.org/spreadsheets/d/1i21YAD2TBEn7nYeii5VH_7smUjCV13cvX2qgbhEkeZk/edit#gid=1132597865)
 
-[Volunteer generated resources from 2013-2014](https://docs.google.com/spreadsheets/d/1yc8AyK5PcB4L-VzN5WWCQXt_435H2qH1QLPxWLlg-dw/edit#gid=0)
+[Volunteer generated resources from 2013-2014](https://docs.google.com/spreadsheets/d/1yc8AyK5PcB4L-VzN5WWCQXt_435H2qH1QLPxWLlg-dw/edit#gid=0) (note: these materials are still under review)
