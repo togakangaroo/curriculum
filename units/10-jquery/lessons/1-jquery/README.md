@@ -324,14 +324,14 @@ Suppose we do not have any other files.
 1. How do I include jQuery into our project?
 2. Let's create an empty JavaScript file. How do I include it in my HTML file?
 3. What starter code do I put in the empty JavaScript file so that I can use jQuery?
-4. How do I create two new empty ``div``s with a class of "pokemon" and IDs of "first" and "second" respectively?
+4. How do I create two new empty ``div``'s with a class of "pokemon" and IDs of "first" and "second" respectively?
 5. How do I put the text "Garchomp" in the first ``div`` and "Mew" in the second? 
 6. How do I print the text in each ``div`` to the console?
 7. How do I delete the last ``div``?
-8. How do I italicize the text in both ``div``s using only one line?
-9. How do I add borders to both ``div``s?
-9. How do I swap the IDs of the `div`s?
-10. How do I attach a click handler to both ``div``s so that clicking on one prints out the text of the clicked ``div`` to the console?
+8. How do I italicize the text in both ``div``'s using only one line?
+9. How do I add borders to both ``div``'s?
+9. How do I swap the IDs of the `div`'s?
+10. How do I attach a click handler to both ``div``'s so that clicking on one prints out the text of the clicked ``div`` to the console?
 
 ### Independent practice ("You do")
 
@@ -354,10 +354,10 @@ Suppose we do not have any other files.
 5. Put the text "Great white" in the first ``div`` and "Box turtle" in the second.
 6. Print the text in each ``div`` to the console.
 7. Delete the first ``div``.
-8. Bold the text in both ``div``s using only one line.
-9. Add dotted borders to both `div`s.
-10. Swap the IDs of the `div`s.
-11. Attach a click handler to both ``div``s so that clicking on one prints out the text of the clicked ``div`` to the console.
+8. Bold the text in both ``div``'s using only one line.
+9. Add dotted borders to both `div`'s.
+10. Swap the IDs of the `div`'s.
+11. Attach a click handler to both ``div``'s so that clicking on one prints out the text of the clicked ``div`` to the console.
 
 #### Exit ticket
 
