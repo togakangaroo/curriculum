@@ -350,14 +350,14 @@ Suppose we do not have any other files.
 1. Include jQuery into our project.
 2. Create an empty JavaScript file. Include it in your HTML file.
 3. What starter code do you put in the empty JavaScript file so that you can use jQuery?
-4. Create two new empty ``div``s with a class of "animal" and IDs of "shark" and "turtle" respectively.
+4. Create two new empty ``div``'s with a class of "animal" and IDs of "shark" and "turtle" respectively.
 5. Put the text "Great white" in the first ``div`` and "Box turtle" in the second.
 6. Print the text in each ``div`` to the console.
 7. Delete the first ``div``.
 8. Bold the text in both ``div``s using only one line.
-9. Add dotted borders to both ``div``s.
-9. Swap the IDs of the `div`s.
-10. Attach a click handler to both ``div``s so that clicking on one prints out the text of the clicked ``div`` to the console.
+9. Add dotted borders to both `div`s.
+10. Swap the IDs of the `div`s.
+11. Attach a click handler to both ``div``s so that clicking on one prints out the text of the clicked ``div`` to the console.
 
 #### Exit ticket
 
