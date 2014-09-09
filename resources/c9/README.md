@@ -30,8 +30,26 @@ Go [here](https://github.com/join) and fill out the form. Remember your password
 
 5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so: ![image](http://i.imgur.com/5fZCQNd.png)
 
-6. A new pop-up window should appear. Copy the text below and paste it nn the "Source URL" box:
+6. A new pop-up window should appear. Copy the text below and paste it in the "Source URL" box:
 ```
 git@github.com:ScriptEdcurriculum/curriculum.git
 ```
+Leave all the other settings the same. Click on the green "Create" button in the bottom right.
+
+7. Cloud9 is creating your workspace. This may take 30 seconds. Once the workspace has been created, select it and click on the green "Start editing" button. 
+
+8. You should see many green folders on the left. These contain lesson plans, homeworks, and projects.
+
+### Keeping your workspace up-to-date
+
+To make sure you have the latest files in your workspace, you will need to run a git command in the terminal. You will learn more about git and the terminal in the future. For now, follow these instructions verbatim:
+
+1. Find the terminal in the bottom of your screen. If you cannot find it, go to the menu bar at the top and click on "Window->New Terminal". Your terminal should look something close to:
+![image](http://i.imgur.com/EcpmCiX.png)
+
+2. 
+
+
+
+
 
