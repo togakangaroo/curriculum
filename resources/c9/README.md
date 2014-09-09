@@ -1,6 +1,6 @@
 # Cloud9 Setup Guide
 
-This guide will explain how to (1) create a Github account, (2) create a Cloud9 account, and (3) create a workspace in Cloud9 that is based off a cloned Github repository.
+This guide will explain how to (1) create a Github account, (2) create a Cloud9 account, and (3) create a workspace in Cloud9 that clones a Github repository.
 
 ## Background
 
