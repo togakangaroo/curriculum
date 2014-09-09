@@ -1,9 +1,9 @@
 #Project 2 - Rock, Paper, Scissors
-![Image](https://lh4.ggpht.com/IESt13wsT2tUhH4uoNH5ucG-J5Hmk6jwT5na8VpCBltWRWjVj4Vc4wKN6ZlWx1bGGw=h900)
+![Image](./rps.jpg?raw=true)
 
 ##Scope
 
-This project will introduce the student to simple one page javascript app to play Rock-Paper-Scissors. They will be introduced to the idea of libraries and the use the use the JQuery library to manage events.  The students should have previous experience with events and event handlers.  Furthermore they will be introduced to Random numbers and how they are simulated in computers.  After they have completed the simple game, they can be asked to complete a more comlex variant, Rock-Paper-Scissors-Lizard-Spock.
+This project will introduce the student to simple one page javascript app to play Rock-Paper-Scissors. They will be introduced to the idea of libraries and the use the use the JQuery library to manage events.  The students should have previous experience with events and event handlers.  Furthermore they will be introduced to Random numbers and how they are simulated in computers.  After they have completed the simple game, they can be asked to complete a more complex variant, [Rock-Paper-Scissors-Lizard-Spock](./rpslp.jpg).
 
 #Before Class
 
@@ -122,7 +122,7 @@ Before students begin work on this project they must be introduced to the follow
 
 ##Project Creation Time
 
-The students will be given a skeleton project with no assets and only scaffold code. They will have to copy the files from the gihub project.
+The students will be given a [skeleton](scaffold.html?raw=true) project with no assets and only scaffold code. They will have to copy the files from the gihub project.
 They teachers can demonstrate how to do it. 
 
 Once they have the skeleton, they will have to fill in the logic of the game for the ai portion and also logic to determine the winner.
@@ -146,3 +146,13 @@ The teacher must ask students to share the link to their project on your school'
 
 ##Homework
 A possible homework is for the Lizard Spock variant with 5 choices.
+
+
+## Proper credit for images
+1. RPS: https://www.flickr.com/photos/ifmomsaysok/4262635874
+2. RPSLS: https://www.flickr.com/photos/elsantuario/6448112917
+3. Scissors: https://www.flickr.com/photos/arriabelli/2500283558
+4. Paper: https://www.flickr.com/photos/calliope/3468811439
+5. Rock: https://www.flickr.com/photos/kansasphoto/6157668054
+6. Lizard: https://www.flickr.com/photos/mdalmuld/14431710441
+7. Spock: https://www.flickr.com/photos/israel-avila/3676210312
