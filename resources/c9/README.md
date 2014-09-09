@@ -28,5 +28,8 @@ Go [here](https://github.com/join) and fill out the form. Remember your password
 
 4. You may see a pop-up telling you about the different plans Cloud9 offers. Ignore this and click on the green "Remind me later" button in the lower right.
 
-5. In the upper left
+5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so:
+
+![image](http://i.imgur.com/5fZCQNd.png)
+
 
