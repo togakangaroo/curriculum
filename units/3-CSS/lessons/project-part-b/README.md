@@ -17,7 +17,7 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ### Solution code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/3-CSS/lessons/project-part-b/solution_code/index.html) to view.
+See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/3-CSS/lessons/project-part-b/solution_code) for code (private).
 
 
 
