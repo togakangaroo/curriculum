@@ -43,7 +43,6 @@ You are going to build the guts of a two-operand, integer calculator. You will b
 You are to modify `js/guts.js`. You will add the following functions to it:
 
 ```
-divide(x,y);
 multiply(x,y);
 subtract(x,y);
 add(x,y);
@@ -52,6 +51,8 @@ square_root(x);
 logBase10(x);
 generateRandomNumber();
 ```
+
+Note that `divide(x,y)` is already implemented for you as a sample.
 
 Additional guidelines:
 
