@@ -10,7 +10,7 @@ Cloud9 is an open source Integrated Development Environment (IDE) in the cloud. 
 
 ### What is Github?
 
-GitHub is a web based hosting platform. GitHub can be used as a publishing tool, a version control system or a way to collaborate on a project with several friends. GitHub allows you to have local and cloud based copies of your projects. This prevents your data will not be lost or stolen. 
+GitHub is a web based hosting platform. GitHub can be used as a publishing tool, a version control system or a way to collaborate on a project with several friends. GitHub allows you to have local and cloud based copies of your projects.
 
 ## Setup
 
