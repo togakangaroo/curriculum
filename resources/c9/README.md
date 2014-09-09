@@ -34,6 +34,9 @@ Go [here](https://github.com/join) and fill out the form. Remember your password
 ```
 git@github.com:ScriptEdcurriculum/curriculum.git
 ```
+
+7. sdfsdf
+
 Leave all the other settings the same. Click on the green "Create" button in the bottom right.
 
 7. Cloud9 is creating your workspace. This may take 30 seconds. Once the workspace has been created, select it and click on the green "Start editing" button. 
