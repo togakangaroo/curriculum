@@ -1,31 +1,6 @@
 function divide(x,y)
 {
+  return x/y;
 }
 
-function multiply(x,y)
-{
-}
-
-function subtract(x,y)
-{
-}
-
-function add(x,y)
-{
-}
-
-function power(x,y)
-{
-}
-
-function square_root(x)
-{
-}
-
-function logBase10(x)
-{
-}
-
-function generateRandomNumber()
-{
-}
+// You must implement the rest of the functions.
