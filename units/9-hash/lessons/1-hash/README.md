@@ -16,7 +16,7 @@ Students will be able to create, initialize, access, manipulate, and iterate thr
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../7-array-loop/lessons/1-array/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../8-array-loop/lessons/2-loop/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
