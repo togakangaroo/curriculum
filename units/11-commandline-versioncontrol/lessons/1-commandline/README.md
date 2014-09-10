@@ -17,7 +17,7 @@ Students will understand the basic CRUD (create, read, update, and delete) comma
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../10-commandline-versioncontrol/lessons/1-commandline/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../10-jquery/lessons/1-jquery/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
