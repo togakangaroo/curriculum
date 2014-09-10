@@ -15,7 +15,7 @@ Students will understand the basics of version control. They will be able to set
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../10-commandline-versioncontrol/lessons/1-commandline/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../11-commandline-versioncontrol/lessons/1-commandline/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
