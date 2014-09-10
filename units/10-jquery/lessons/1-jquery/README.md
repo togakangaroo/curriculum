@@ -15,7 +15,7 @@ Students will be able to create, read, update, and delete HTML elements using jQ
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../8-hash/lessons/1-hash/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../9-hash/lessons/1-hash/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
