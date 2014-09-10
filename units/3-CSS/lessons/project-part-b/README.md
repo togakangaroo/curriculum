@@ -23,7 +23,7 @@ See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/3-C
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../3-css/lessons/4-bootstrap/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../4-bootstrap/assessments/).
 
 ##During Class
 
