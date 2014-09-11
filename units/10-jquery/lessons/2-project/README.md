@@ -71,3 +71,5 @@ Teachers should keep track of student success while they are presenting to the c
 
 ###How to Submit
 The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+
+Also remind students to add a link to their project on their About Me page.
