@@ -93,11 +93,10 @@ Then allow students to complete this task on their own. The final product should
 ##Check for understanding: Submitting this project
 The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
 
+Also remind students to add a link to their project on their About Me page.
 
 ##Homework
 Students can log into Scratch at home and create a game that uses a variable to keep score. This assignment does not technically need to be graded but should be seen as a way for students to explore further into Scratch outside of class.
-
-Also remind students to add a link to their project on their About Me page.
 
 ## After Class
 * Take a quick look at each Scratch project from today. Students who were not able to create the program should be asked to recreate the project, with teacher’s help, next class.
