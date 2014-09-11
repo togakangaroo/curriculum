@@ -41,8 +41,8 @@ Students who complete the project at hand early may attempt to improve their pro
 
 * Added CSS for visual customization (Focus on centering)
 * Add sections that resemble early MySpace ex: top 8, favorite bands
-* Add a song that can be played on their site 
-*
+* Add a song that can be played on their site   
+
 ##Closing
 Each student will present their social media site. While presenting they should explain what they were going for and where their inspiration came from.  
 After students have presented, the class should vote on which site they would want to join first. 
