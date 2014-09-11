@@ -169,7 +169,7 @@ To see the full list of comparison operators, go [here](http://www.w3schools.com
 
 ####Conditionals with logical operators
 
-#####``!``
+#####Logical NOT (``!``)
 
 Suppose we have two variables and we want to check that they do not equal each other. We can do this:
 
@@ -192,7 +192,7 @@ if (x != y)
 
 Both `if` statements are equivalent.
 
-#####``&&``
+#####Logical AND (``&&``)
 
 What if we want to test for more complex conditions in our `if` statements? Consider the following example:
 
@@ -214,7 +214,7 @@ else if (tail == "Yes" && color == "Brown")
 
 Let's start at line 5. Here, we are testing for both conditions to be true. The `&&` **logical operator** stands for "and." In order for the body of the `if` statement to run, both conditions must be true. That is, the user must have entered "Yes" and then "Green" in order for `You are Rex, the dinosaur` to print. If this doesn't happen, the same rules apply to the proceeding `else if` statement.
 
-#####``||``
+#####Logical OR (``||``)
 
 Similarly, we can use the ``||`` logical operator to act as an "or." Consider the following example:
 
