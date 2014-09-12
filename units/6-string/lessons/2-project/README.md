@@ -58,6 +58,13 @@ Before you start coding, identify the list of steps you need to do to finish thi
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
+###Extension Activities
+Students who complete the project at hand early may attempt to improve their project by including the following:  
+
+* Added CSS for visual customization
+* A second MadLibs story
+* Create a site in which the user is first prompted to choose between 2 or more MadLibs stories to fill in.
+
 ##Closing
 Select students to present their work to the class.
 
