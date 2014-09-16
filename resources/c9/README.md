@@ -38,7 +38,7 @@ Go [here](https://github.com/join) and fill out the form. Remember your password
 
 ### Keeping your workspace up-to-date
 
-To make sure you have the latest files in your workspace, you will need to run a git command in the terminal. You will learn more about git and the terminal in the future. For now, follow these instructions verbatim. You will need to do this **everytime you use Cloud9**.
+To make sure you have the latest files in your workspace, you will need to run a git command in the terminal. You will learn more about git and the terminal in the future. For now, follow these instructions verbatim. You will need to do this **everytime you start a new project**.
 
 1. Find the terminal in the bottom of your screen. If you cannot find it, go to the menu bar at the top and click on "Window->New Terminal". Your terminal should look something close to:
 ![image](http://i.imgur.com/EcpmCiX.png)
