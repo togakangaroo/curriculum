@@ -29,7 +29,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 
 Year 2
 =========================
-Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account for students who need to do so. 
+Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
 
 | Unit  | Date(s) of Lesson | Skills | Project | API | 
 |-------|:-------:|------|--------------|---------|
