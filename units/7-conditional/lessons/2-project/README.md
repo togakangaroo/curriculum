@@ -74,6 +74,15 @@ Before you start coding, identify the list of steps you need to do to finish thi
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
+###Extension Activities
+Students who complete the project at hand early may attempt to improve their project by including the following:  
+
+* Added CSS for visual customization
+* Create a counter that only allows the user 4 guesses before the program terminates.
+* Create a system where the user is awarded a certain number of points based on the amount of guesses it took to find the random number. 
+* Create a "Reset random number" button.
+* Prompt the user to choose a difficulty (Easy, Medium, Hard). Difficulty can be increased by making the range of numbers to choose from larger.
+
 ##Closing
 Select students to present their work to the class.
 
