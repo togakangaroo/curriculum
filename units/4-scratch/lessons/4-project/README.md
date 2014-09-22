@@ -16,7 +16,7 @@ Students can begin with a blank canvas on scratch.mit.edu
 
 ### Solution code
 
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/4-project/solution_code) for code (private).
+See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/4-scratch/lessons/4-project/solution_code) for code (private).
 
 ### Assessment
 
@@ -32,7 +32,8 @@ This project will be graded as a summative assessment.
 ###Opening
 
 “Please complete the MadLibs activity as a refresher to the parts of speech.” Allow 3-4 minutes to complete. Once complete have some students share their MadLibs game. Then have a class conversation revolving around variables in a game of MadLibs." 
-
+
+
 ###Lecture
 You are going to build a MadLibs game using Scratch. This madlibs game will combine the skills we have learned in previous lessons. It must begin with boolean logic before beginning the game. 
 
