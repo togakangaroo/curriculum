@@ -16,7 +16,7 @@ These programs should all be completed in either a text editor or cloud9.
 | 6 | style.css  | ...Center the text on all four webpages using a link to a stylesheet. | 2 | 
 | 7 | MySite  | ...has a home page with your picture and some text. The site also needs three pages about your favorite hobbies (1 page per hobby) | 4 | 
 | 8 | Div | ...improve the index page on your site by including 3 sections each with their own div tag. | 3 |
-| 9 | Style it!  | ...improves the site created in clue 8 to include all of the folling styles: text, text-size, background, color, padding and margin    | 5 | 
+| 9 | Style it!  | ...improves the site created in clue 8 to include all of the following styles: font-family, font-size, background, color, padding and margin    | 5 | 
 | 10 | @media  | ...includes a media query| 3 |
   
   
