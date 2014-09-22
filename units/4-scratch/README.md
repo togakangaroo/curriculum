@@ -6,7 +6,9 @@ In this unit, the students begin work on Scratch 2.0. Scratch is a block based p
 ##Lessons
 
 1. [Algorithms](lessons/1-algorithms)
-2. [Boolean and Variables](lessons/2-variablesLogic)
+2. [Variables](lessons/2-variables)
+3. [Logic](lessons/3-ifElse)
+4. [Project](lessons/4-project)
 
 ##Standards
 
