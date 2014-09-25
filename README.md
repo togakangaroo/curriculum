@@ -15,7 +15,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms |   N/A |
 | [**2. HTML**](units/2-HTML/)| 3 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 
-| [**4. Programming with Scratch**] (units/4-scratch/) | 2 | Algorithms, `if`/`else`, comparison operators  | [Ol Mc'Donald MadLibs](units/4-scratch/lessons/4-project) w/ `if`/`else` statement | 
+| [**4. Programming with Scratch**] (units/4-scratch/) | 2 | Algorithms, `if`/`else`, comparison operators  | [Ol Mc'Donald MadLibs](units/4-scratch/lessons/2-variablesLogic) w/ `if`/`else` statement | 
 | [**5. JavaScript**] (units/5-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/5-javascript/lessons/4-project/) | 
 | [**6. Strings**] (units/6-string/) | 2  | Functions, casting, comparison | [Madlibs](units/6-string/lessons/2-project) | 
 | [**7. Conditionals**](units/7-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | [High low](units/7-conditional/lessons/2-project) | 
@@ -40,6 +40,6 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
 | [6. Speech Synthesis](unitsYear2/6-speechSynthesis) |   | Form, API, Responsive Design, http calling, JQuery |  | [Speech Synthesis](http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API)  [Azure Microsoft Translator](http://msdn.microsoft.com/en-us/library/dd576287.aspx)  [Web Speech]
 | [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
-| [8. Learningpod Test Prep](unitsYear2/8-learningpod) |   |   |  |[Learningpod](http://www.learningpod.com/developer) | 
+| [8. Learningpod Test Prep](unitsYear2/8-learningPod) |   |   |  |[Learningpod](http://www.learningpod.com/developer) | 
 | **10. Entrepreneurism** |  |  |  |
 | **11. ** |   | | 
