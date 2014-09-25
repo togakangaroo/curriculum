@@ -12,15 +12,15 @@ The focus of the project should be building functional code, not design. So, Lea
 Before class, the teacher should familiarize themselves with the Learningpod API documentation so they can more easily answer student questions as they arise. Learningpod will ensure that, for the purposes of this project, oAuth 2 integration is not required. 
 
 ##Vocabulary
-*API
-*JSON
-*XML
-*Question
-*Answer
-*Explanation
+* API  
+* JSON  
+* XML  
+* Question  
+* Answer  
+* Explanation
 
 ##References
-* [browse page](http://www.learningpod.com/browse)
+* [Browse Page](http://www.learningpod.com/browse)
 * [Learningpod API Documentation](http://www.learningpod.com/developer)
  
 
