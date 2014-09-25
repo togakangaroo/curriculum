@@ -87,7 +87,8 @@ After students have completed this task ask them to complete the following:
 2. One cell should have an ordered list with a title.  
 3. One cell should have an unordered list with a title.  
 4. The other two cells should include pictures and text.  
-Extension: add styles to the table.
+Extension: Create a Tic Tac Toe table  
+![Image](http://i.imgur.com/SDiR01b.png)
   
 ## Closing/ Homework
 “Today we created a HTML webpage with a table which included lists and images. Would anyone like to show off what they have done and explain how they did it?”
