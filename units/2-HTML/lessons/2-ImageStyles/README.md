@@ -45,7 +45,7 @@
 ### Do-now
 
 1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Hand students a [Cloud 9 and GitHub Setup](Cloud9GitHubSetup.pdf) worksheet. Students will sign up for GitHub and Cloud9 with help from this worksheet.
+2. Hand students a [Cloud 9 and GitHub Setup](https://github.com/kirjs/curriculum/blob/master/resources/c9/README.md) worksheet. Students will sign up for GitHub and Cloud9 with help from this worksheet.
 
 
 ## Opening
