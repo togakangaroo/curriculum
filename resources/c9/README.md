@@ -16,7 +16,8 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 ### Create Github account
 
-Go [here](https://github.com/join) and fill out the form. Remember your password.
+1. Go [here](https://github.com/join) and fill out the form. Remember your password.
+2. You may see a screen, telling you about the different plans Github offers. Ignore this and click on the green "Finish sign up" button in the bottom.
 
 ### Create Cloud9 account
 
