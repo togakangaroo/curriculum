@@ -29,7 +29,7 @@
         <script>
 
             // This function returns the selection of the computer
-            function aiSelection() {
+            function getAISelection() {
                 //TODO: randomly choose between 'rock', 'paper', or 'scissors'
                 return 'rock';
             }
@@ -40,9 +40,9 @@
                 return 'ai';
             }
 
-            function decide( evt ){
-                var userValue = $(this).attr('id');
-                var aiValue = aiSelection();
+            function evaluate( evt ){
+                var userValue = evt.target.getAttribute('id');
+                var aiValue = getAISelection();
 
                 var winner = pickWinner(userValue, aiValue );
 
@@ -60,7 +60,7 @@
 
                 $('.token').click( function(e) {
                     bop(this);
-                    decide.call(this,e);
+                    evaluate(e);
                 });
             });
         </script>
