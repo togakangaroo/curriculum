@@ -5,7 +5,7 @@
 ## Before class
 ---
 ###Teacher Preperation
-* Must have copies of syllabus printed
+* Must have copies of [syllabus](syllabus.docx) printed
 * Two blank pieces of paper ready to be either taped or tacked to the back wall
 * Ensure “What Most Schools Don’t Teach” video can play in classroom (see references).
 
