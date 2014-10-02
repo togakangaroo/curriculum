@@ -16,12 +16,12 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 ### Create Github account
 
-1. Go [here](https://github.com/join) and fill out the form. Remember your password.
+1. Go <a href = "https://github.com/join" target = "_blank">here</a> and fill out the form. Remember your password.
 2. You may see a screen, telling you about the different plans Github offers. Ignore this and click on the green "Finish sign up" button in the bottom.
 
 ### Create Cloud9 account
 
-1. Go [here](https://c9.io/) and click on the Github icon in the upper left of the screen as seen below: ![image](http://i.imgur.com/95AGSAw.png)
+1. Go  <a href = "https://c9.io" target = "_blank">here</a> and click on the Github icon in the upper left of the screen as seen below: ![image](http://i.imgur.com/95AGSAw.png)
 
 2. Click on the green "Authorize application" button at the bottom of the screen.
 
