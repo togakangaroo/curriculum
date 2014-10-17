@@ -13,7 +13,7 @@ Students should only start this project after they have completed the other less
 See [here](starterP2.html) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/2-HTML/lessons/5-project/starterP2.html) to view. 
 
 ##Solution Code
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/2-HTML/lessons/4-project) for code (private). 
+See [here]() for code (private). 
 
 #During Class
 
@@ -25,7 +25,7 @@ As the students walk into class they are asked to compare and contrast designs f
 Whether we have a social media account or not we know what they look like. If you had your own social media site what would everyone's bio page look like?
 
 ##Lecture
-Today in class you are all going to make your own social media bio page.[Here](solutionP2.html) is an example of one that we made before class.
+Today in class you are all going to make your own social media bio page.[Here]() is an example of one that we made before class.
 
 ##Project Creation Time
 #####Brianstorming/Prototyping
