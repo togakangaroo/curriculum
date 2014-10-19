@@ -28,7 +28,7 @@ Nitrous VMs provisioned on a free account shut down after an idle period. This m
 1. Go  <a href = "https://nitrous.io" target = "_blank">here</a> and click on the Github link below the green button:
 <br/>![image](http://i.imgur.com/h8cOV0A.png)
 
-2. Log into Github if you aren't already. Click on the green "Authorize application" button at the bottom of the page.
+2. Log into Github if you haven't already. Click on the green "Authorize application" button at the bottom of the page.
 
 3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
