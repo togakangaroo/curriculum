@@ -24,20 +24,17 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 1. Go  <a href = "https://nitrous.io" target = "_blank">here</a> and click on the Github link below the green button:
 <br/>![image](http://i.imgur.com/h8cOV0A.png)
 
-2. Log into Github if you already aren't. Click on the green "Authorize application" button at the bottom of the page.
+2. Log into Github if you aren't already. Click on the green "Authorize application" button at the bottom of the page.
 
 3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
-4. You'll be asked to create a box. Click on the "PHP" box on the far right. Copy the following text: ``https://github.com/ScriptEdcurriculum/curriculum.git`` and paste it into the "Download a Github repo" text. Your screen should look like this:<br/>![image](http://i.imgur.com/WiKOIj7.png)
+4. You'll be asked to create a box. Click on the "PHP" box on the far right. Copy the following text: ``https://github.com/ScriptEdcurriculum/curriculum.git`` and paste it into the "Download a Github repo" box. Your screen should look like this:<br/>![image](http://i.imgur.com/WiKOIj7.png)<br/>Then click on the orange "Create box" button. 
 
+5. Wait a couple seconds for your box to be created. Click on the orange buttons until you are taken to a new screen. 
 
-5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so: ![image](http://i.imgur.com/5fZCQNd.png)
+6. Within your `workspace` folder, you should see a `curriculum` folder. These contain lesson plans, homeworks, and projects. Work with your instruction to find the folder you should be in.
 
-6. A new pop-up window should appear. Copy the following text: ``git@github.com:ScriptEdcurriculum/curriculum.git`` and paste it into the "Source URL" box. Leave all the other settings the same. Click on the green "Create" button in the bottom right.
-
-7. Cloud9 is creating your workspace. This may take up to 30 seconds. Once the workspace has been created, select it and click on the green "Start editing" button. 
-
-8. You should see many green folders on the left. These contain lesson plans, homeworks, and projects. Work with your instruction to find the folder you should be in.
+7. The `www` folder is where you will create your own work. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, enter in the text "Hello World", save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/qFC0isj.png)
 
 ### Keeping your workspace up-to-date
 
