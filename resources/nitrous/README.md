@@ -24,12 +24,11 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 1. Go  <a href = "https://nitrous.io" target = "_blank">here</a> and click on the Github link below the green button:
 <br/>![image](http://i.imgur.com/h8cOV0A.png)
 
-2. Click on the green "Authorize application" button at the bottom of the screen.
+2. Log into Github if you already aren't. Click on the green "Authorize application" button at the bottom of the page.
 
 3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
-4. You'll be asked to create a box. Click on the "PHP" box on the far right. Leave everything else the same. Your screen should look like so: 
-![image](http://i.imgur.com/ZjwVEzp.png)
+4. You'll be asked to create a box. Click on the "PHP" box on the far right: <br/>![image](http://i.imgur.com/ZjwVEzp.png) <br/>Leave everything else the same and then click on the orange "Create box" button in the lower right. 
 
 5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so: ![image](http://i.imgur.com/5fZCQNd.png)
 
