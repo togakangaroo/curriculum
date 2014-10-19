@@ -22,7 +22,6 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 ### Create Nitrous account
 
 1. Go  <a href = "https://nitrous.io" target = "_blank">here</a> and click on the Github link below the green button:
-
 ![image](http://i.imgur.com/h8cOV0A.png)
 
 2. Click on the green "Authorize application" button at the bottom of the screen.
