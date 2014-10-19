@@ -50,7 +50,7 @@ To make sure you have the latest files in your workspace, you will need to run a
 
 1. Click on the "View" menu and click on "Focus Console" like so:<br/>![image](http://i.imgur.com/ArLziXA.png)
 
-2. Copy the following text and paste it into the black space at the very bottom of the screen: ``cd ~/workspace/www; git pull``
+2. Copy the following text and paste it into the black space at the very bottom of the screen: ``cd ~/workspace/www; git pull``. Press the enter/return key.
 
 3. You might be prompted with a message like so: ``Are you sure you want to continue connecting (yes/no)?``. In this case, type in "yes" without the quotes. Then hit the enter/return key.
 
