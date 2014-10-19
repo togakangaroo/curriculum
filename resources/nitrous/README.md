@@ -28,7 +28,8 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
-4. You'll be asked to create a box. Click on the "PHP" box on the far right: <br/>![image](http://i.imgur.com/ZjwVEzp.png) <br/>Leave everything else the same and then click on the orange "Create box" button in the lower right. 
+4. You'll be asked to create a box. Click on the "PHP" box on the far right. Copy the following text: ``https://github.com/ScriptEdcurriculum/curriculum.git`` and paste it into the "Download a Github repo" text. Your screen should look like this:<br/>![image](http://i.imgur.com/WiKOIj7.png)
+
 
 5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so: ![image](http://i.imgur.com/5fZCQNd.png)
 
