@@ -1,6 +1,6 @@
 # Nitrous Setup Guide
 
-This guide will explain how to (1) create a Github account, (2) create a Nitrous account, and (3) create a workspace in Cloud9 that clones a Github repository.
+This guide will explain how to (1) create a Github account, (2) create a Nitrous account, and (3) create a workspace in Nitrous that clones a Github repository.
 
 ## Background
 
@@ -16,18 +16,19 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 ### Create Github account
 
-1. Go <a href = "https://github.com/join" target = "_blank">here</a> and fill out the form. Remember your password.
-2. You may see a screen, telling you about the different plans Github offers. Ignore this and click on the green "Finish sign up" button in the bottom.
+1. Go <a href = "https://github.com/join" target = "_blank">here</a> and fill out the form. For the email address, use your school email address. Write down your password so that you don't forget it.
+2. You will see a screen telling you about the different plans Github offers. Make sure the free plan is selected and then click on the green "Finish sign up" button in the bottom of the page.
 
 ### Create Nitrous account
 
-1. Go  <a href = "https://nitrous.io" target = "_blank">here</a> and click on the Github icon in the upper left of the screen as seen below: ![image](http://i.imgur.com/95AGSAw.png)
+1. Go  <a href = "https://nitrous.io" target = "_blank">here</a> and click on the Github link below the green button: ![image](http://i.imgur.com/h8cOV0A.png)
 
 2. Click on the green "Authorize application" button at the bottom of the screen.
 
-3. You're now logged into Cloud9. Click the "Dashboard" link in the upper right.
+3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
-4. You may see a pop-up telling you about the different plans Cloud9 offers. Ignore this and click on the green "Remind me later" button in the lower right.
+4. You'll be asked to create a box. Click on the "PHP" box on the far right. Leave everything else the same. Your screen should look like so: 
+![image](http://i.imgur.com/ZjwVEzp.png)
 
 5. In the upper left, click on the green "Create new workspace" button. Then click on "Clone from URL" like so: ![image](http://i.imgur.com/5fZCQNd.png)
 
