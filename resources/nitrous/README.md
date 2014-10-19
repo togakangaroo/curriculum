@@ -14,7 +14,7 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 ### Special note for instructors
 
-Nitrous VMs provisioned on a free account shut down after an idle period. This means you will not be able to access a student's work on Nitrous after the VM is down. ScriptEd has a special arrangement with Nitrous to keep our students' VMs on all the time. Work with your program manager to find out more.
+Nitrous VMs provisioned on a free account shut down after an idle period. This means you will not be able to access a student's work on Nitrous after the VM is down. ScriptEd has an arrangement with Nitrous to keep our students' VMs on all the time. Work with your program manager to find out more.
 
 ## Setup
 
