@@ -30,7 +30,7 @@ Nitrous VMs provisioned on a free account shut down after an idle period. This m
 
 2. Log into Github if you haven't already. Click on the green "Authorize application" button at the bottom of the page.
 
-3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
+3. You'll be asked to create an account on Nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
 4. You'll be asked to create a box. Click on the "PHP" box on the far right like so: <br/>![image](http://i.imgur.com/sFgG9lY.png)<br/>Leave everything else the same and click on the orange "Create Box" button.
 
