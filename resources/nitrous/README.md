@@ -34,20 +34,19 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 6. Click on the "View" menu and click on "Focus Console" like so:<br/>![image](http://i.imgur.com/ArLziXA.png)
 
-7. Copy the following text and paste it into the black space at the very bottom of the screen: ``cd workspace/www; git clone https://github.com/ScriptEdcurriculum/curriculum.git``. *(Note: for Windows & Linux users, Shift + Control + V is paste).* Your screen should look like:<br/>![image](http://i.imgur.com/ccCgV1t.png)<br/>Then press enter.
+7. Copy the following text and paste it into the black space at the very bottom of the screen: ``cd ~/workspace/www; git clone https://github.com/ScriptEdcurriculum/curriculum.git``. *(Note: for Windows & Linux users, Shift + Control + V is paste).* Your screen should look like:<br/>![image](http://i.imgur.com/ccCgV1t.png)<br/>Then press the enter/return key.
 
 8. Within your `www` folder, you should see a `curriculum` folder. These contain lesson plans, homeworks, and projects. Work with your instruction to find the folder you should be in.
 
-9. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, click on it the new file on the left, enter in the text "Hello World", save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/AUdxeAW.png)
+9. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, click on it the new file on the left, enter in the text "Hello World", save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/AUdxeAW.png)<br/>You should see the text "Hello world" in a new tab.
 
 ### Keeping your workspace up-to-date
 
 To make sure you have the latest files in your workspace, you will need to run a git command in the terminal. You will learn more about git and the terminal in the future. For now, follow these instructions verbatim. You will need to do this **everytime you start a new project**.
 
-1. Find the terminal in the bottom of your screen. If you cannot find it, go to the menu bar at the top and click on "Window->New Terminal". Your terminal should look something close to:
-![image](http://i.imgur.com/EcpmCiX.png)
+1. Click on the "View" menu and click on "Focus Console" like so:<br/>![image](http://i.imgur.com/ArLziXA.png)
 
-2. Copy the following command: ``git pull`` and paste it in the terminal. Hit the enter/return key. 
+2. Copy the following text and paste it into the black space at the very bottom of the screen: ``cd ~/workspace/www; git pull``
 
 3. You might be prompted with a message like so: ``Are you sure you want to continue connecting (yes/no)?``. In this case, type in "yes" without the quotes. Then hit the enter/return key.
 
