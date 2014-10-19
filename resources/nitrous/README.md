@@ -12,6 +12,10 @@ Nitrous is an integrated development environment (IDE) in the cloud. More at the
 
 GitHub is a web based hosting platform. GitHub can be used as a publishing tool, a version control system or a way to collaborate on a project with several friends. GitHub allows you to have local and cloud based copies of your projects.
 
+### Special note for instructors
+
+Nitrous VMs provisioned on a free account shut down after an idle period. This means you will not be able to access a student's work on Nitrous after the VM is down. ScriptEd has a special arrangement with Nitrous to keep our students' VMs on all the time. Work with your program manager to find out more.
+
 ## Setup
 
 ### Create Github account
