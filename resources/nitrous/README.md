@@ -28,13 +28,17 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 
 3. You'll be asked to create an account on nitrous. The username box is already filled in; do not change this. Fill in the password box **with the same password you used for your Github account**. Then click the "Sign up" button at the bottom.
 
-4. You'll be asked to create a box. Click on the "PHP" box on the far right. Copy the following text: ``https://github.com/ScriptEdcurriculum/curriculum.git`` and paste it into the "Download a Github repo" box. Your screen should look like this:<br/>![image](http://i.imgur.com/WiKOIj7.png)<br/>Then click on the orange "Create box" button. 
+4. You'll be asked to create a box. Click on the "PHP" box on the far right like so: <br/>![image](http://i.imgur.com/sFgG9lY.png)<br/>Leave everything else the same and click on the orange "Create Box" button.
 
 5. Wait a couple seconds for your box to be created. Click on the orange buttons until you are taken to a new screen. 
 
-6. Within your `workspace` folder, you should see a `curriculum` folder. These contain lesson plans, homeworks, and projects. Work with your instruction to find the folder you should be in.
+6. Click on the "View" menu and click on "Focus Console" like so:<br/>![image](http://i.imgur.com/ArLziXA.png)
 
-7. The `www` folder is where you will create your own work. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, enter in the text "Hello World", save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/qFC0isj.png)
+7. Copy the following text and paste it into the black space at the very bottom of the screen: ``cd workspace/www; git clone https://github.com/ScriptEdcurriculum/curriculum.git``. *(Note: for Windows & Linux users, Shift + Control + V is paste).* Your screen should look like:<br/>![image](http://i.imgur.com/ccCgV1t.png)<br/>Then press enter.
+
+8. Within your `www` folder, you should see a `curriculum` folder. These contain lesson plans, homeworks, and projects. Work with your instruction to find the folder you should be in.
+
+9. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, click on it the new file on the left, enter in the text "Hello World", save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/AUdxeAW.png)
 
 ### Keeping your workspace up-to-date
 
