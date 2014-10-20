@@ -42,7 +42,7 @@ Nitrous VMs provisioned on a free account shut down after an idle period. This m
 
 8. Within your `www` folder, you should see a `curriculum` folder. These contain lesson plans, homeworks, and projects. Work with your instruction to find the folder you should be in.
 
-9. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, double click on the new file on the left to open it, enter in the text "Hello World" on the right, save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/g9fpw5D.png)<br/>You should see the text "Hello world" in a new tab.
+9. As a test, right click on the `www` folder, click on "New File", name your new file `index.html`, double click the new file on the left to open it on the right, enter in the text "Hello World", save the file, click on the "Preview" menu, and click on the second menu option like so:<br/>![image](http://i.imgur.com/g9fpw5D.png)<br/>You should see the text "Hello world" in a new tab.
 
 ### Keeping your workspace up-to-date
 
