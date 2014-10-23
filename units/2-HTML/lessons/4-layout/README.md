@@ -40,8 +40,8 @@
 ### Do-now
 
 1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Ask students to complete the following on paper:
-  * Draw a simple diagram of what you want your website to look like using boxes
+2. Ask students to complete the following **on paper**:
+  * Draw a simple layout for a webpage about yourself. This drawing should made exactly as you would see it on a desktop browser.
 
 ## Opening
 
@@ -67,9 +67,11 @@ The Main tag `<main>` is used for the main content on your website. What is your
 **Aside**
 The Aside tag `<aside>` is used for your website's sidebar (if you have one). This might have some additional information that isn't as important as what goes in the Main tag, like fun facts or links to other sites. 
 
-## Independent practice ("You do")
+## Guided practice ("We do")
 
-"Now that we've gone over the main HTML tags that you can use to make your webpage layout, let's try making a webpage using these tags." Ask students to open a new file in their IDE. They can follow along as you demo on the board.
+"Now that we've gone over the main HTML tags that you can use to make your webpage layout, let's try making a webpage using these tags." 
+
+Ask students to open a new file in their IDE. They can follow along as you demo on the board.
 
 First create a header tag and put your name or your webpage's name in it using the h1-h6 tags.
 ```
@@ -98,15 +100,17 @@ Finally create a footer tag and put the date in it.
 
 Now when everyone looks at their webpage, point out that even though we used these tags, they don't have any style or layout. They just appear right on top of each other. That's because we need to add some CSS/styling in order to put these sections where we want them to go, and to make them look like how we want.
 
-## Guided Practice (“We Do”)
+## Independent Practice (“You Do”)
+At this point the teacher may decide to do one of two things.
 
-In order to create their projects for this unit, students will use a template that already has the necessary basic CSS in order to achieve a simple header/main/sidebar/footer layout. Covering display, positioning, and the box model should wait until the CSS unit, so for the rest of this lesson:
+**Option A**: If students still need some more practice with nesting tags and page organization, choose option A.   
 
-* Look at some examples of common layouts
-* Visit some students' favorite websites and ask students to outline the layout
-* Go through the slides on <http://learnlayout.com/> and talk about some of the ways CSS can manipulate layout.
+IN option A students are now tasked to add tags and manipulate the page created in the "We Do" for the rest of class. The focus should be challenging the students to use tags learned in previous lessons.
 
-![image](http://www.iyiz.com/css-layouts-post-imgs/css-layouts24.gif)
+
+**Option B** If students are comfortable with HTML and the teacher is confident the students are ready for a challenge choose option B.  
+   
+In option B the teacher now introduces the students to [Project 2- Creating a Social Media Webpage](5-project). Where the student can begin work on their project by obtaining the starter code.
 
 ## Closing/ Homework
 “Today we learned about layout and started planning what our webpages will look like. What is layout and why is it important? What are some HTML tags that help us create a layout?”
