@@ -1,6 +1,9 @@
 ## GM 
 
-I think this is a pretty obvious opportunity for my design-a-document-format game.
+I think this is a pretty obvious opportunity for my design-a-document-format game. I think in order to do it, you need to explain why you're limited to text. Understanding that is easier if you know some history on the server-client nature of the internet. Therefore start with a lecture on the founding of the internet. Show a terminal, describe how at the time thats what computers looked like. 
+
+* Each computer can find other computers through its IP address. Explain history
+* Play IP address server/response game
 
 Start with the [first page on the web](http://info.cern.ch/hypertext/WWW/TheProject.html). 
 
