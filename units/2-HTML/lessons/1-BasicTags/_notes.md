@@ -5,6 +5,8 @@ I think this is a pretty obvious opportunity for my design-a-document-format gam
 * Each computer can find other computers through its IP address. Explain history
 * Play IP address server/response game
 
+http://www.quora.com/What-is-a-computer-trick-that-in-the-past-was-cool-but-today-is-unimpressive-and-trivial
+
 Start with the [first page on the web](http://info.cern.ch/hypertext/WWW/TheProject.html). 
 
 ```
